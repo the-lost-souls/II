@@ -1,0 +1,2 @@
+240 = transparency
+250 = div filled stuff.

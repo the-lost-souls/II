@@ -1,0 +1,1110 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 2000
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\scenes\dance\obj\flor2_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\alter_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\light_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -12.5 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  -59 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 2 7
+ObjectMotion (unnamed)
+  9
+  1
+  -41 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\reis_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\stat_14.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gas_12.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gasb_14.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gfoot_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 16
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gmorph_5.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 10
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\garm_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 10
+Metamorph 1.000000
+MorphTarget 11
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\grope_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  15
+  0 4.5 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 4.5 0 0 -5 0 1 1 1
+  15 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 4.5 0 0 5 0 1 1 1
+  45 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  60 0 0 0 0
+  0 4.5 0 0 -4 0 1 1 1
+  75 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  90 0 0 0 0
+  0 4.5 0 0 5 0 1 1 1
+  105 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  120 0 0 0 0
+  0 4.5 0 0 -3 0 1 1 1
+  135 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  150 0 0 0 0
+  0 4.5 0 0 3 0 1 1 1
+  165 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  180 0 0 0 0
+  0 4.5 0 0 -2 0 1 1 1
+  195 0 0 0 0
+  0 4.5 0 0 0 0 1 1 1
+  210 0 0 0 0
+EndBehavior 1
+LockedChannels 2600
+PivotPoint 0 4.5 0
+ParentObject 12
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gong_14.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gclub_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 12
+ShadowOptions 7
+
+AddNullObject Gong Null
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  -33.75 1962 -160.6 40 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  45
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  12 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  36 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  48 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  60 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  72 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  84 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  96 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  108 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  120 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  132 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  144 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  156 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  168 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  180 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  192 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  204 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  216 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  228 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  240 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  252 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  264 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  276 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  288 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  300 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  312 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  324 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  336 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  348 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  360 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  372 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  384 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  396 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  408 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  420 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  432 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  444 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  456 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  468 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  480 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  492 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  504 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  516 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  528 0 0 0 0
+EndBehavior 2
+LockedChannels 48
+ParentObject 27
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.5 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  12 0 0 0 0
+EndBehavior 2
+ParentObject 28
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  45
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  12 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  36 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  48 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  60 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  72 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  84 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  96 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  108 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  120 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  132 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  144 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  156 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  168 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  180 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  192 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  204 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  216 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  228 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  240 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  252 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  264 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  276 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  288 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  300 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  312 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  324 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  336 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  348 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  360 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  372 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  384 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  396 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  408 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  420 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  432 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  444 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  456 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  468 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  480 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  492 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  504 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  516 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+ParentObject 29
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.6 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  12 0 0 0 0
+EndBehavior 2
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  45
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  12 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  36 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  48 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  60 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  72 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  84 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  96 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  108 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  120 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  132 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  144 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  156 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  168 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  180 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  192 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  204 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  216 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  228 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  240 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  252 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  264 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  276 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  288 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  300 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  312 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  324 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  336 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  348 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  360 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  372 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  384 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  396 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  408 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  420 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  432 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  444 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  456 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  468 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  480 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  492 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  504 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  516 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+ParentObject 31
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.7 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  12 0 0 0 0
+EndBehavior 2
+ParentObject 32
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  45
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  12 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  36 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  48 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  60 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  72 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  84 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  96 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  108 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  120 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  132 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  144 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  156 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  168 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  180 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  192 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  204 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  216 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  228 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  240 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  252 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  264 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  276 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  288 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  300 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  312 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  324 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  336 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  348 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  360 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  372 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  384 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  396 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  408 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  420 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  432 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  444 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  456 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  468 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  480 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  492 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  504 0 0 0 0
+  0 0 0 0 0 5 1 1 1
+  516 0 0 0 0
+  0 0 0 0 0 -5 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+ParentObject 33
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 34
+ShadowOptions 7
+
+AddNullObject Concubines null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  -50 1958 -205 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\blob_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  4
+  -49.8 1966.3 -152 0 0 0 1 1 1
+  0 0 0 0 0
+  -49.8 1966.3 -152 -192 -192 210 1 1 1
+  90 0 0 0 0
+  -49.8 1966.3 -152 65.99999 86.00002 -76.00001 1 1 1
+  150 0 0 0 0
+  -49.8 1966.3 -152 0 0 0 1 1 1
+  180 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+PivotPoint 0.2 0.8 0
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 35 -262.7541 0 0 1 1 1
+  0 0 0 0 0
+  -16.4 0 33.6 -262.7541 0 0 1 1 1
+  48 0 0 0 0
+  -18.8 0 16.4 -262.7541 0 0 1 1 1
+  96 0 0 0 0
+  2.5 0 8.8 -262.7541 0 0 1 1 1
+  144 0 0 0 0
+  16.3 0 -5.2 -262.7541 0 0 1 1 1
+  192 0 0 0 0
+  2.5 0 -20.2 -262.7541 0 0 1 1 1
+  240 0 0 0 0
+  -15.2 0 -17.2 -262.7541 0 0 1 1 1
+  288 0 0 0 0
+  -19.2 0 -1 -262.7541 0 0 1 1 1
+  336 0 0 0 0
+  -8.799999 0 11.2 -262.7541 0 0 1 1 1
+  384 0 0 0 0
+  8.799998 0 15.7 -262.7541 0 0 1 1 1
+  432 0 0 0 0
+  6 0 28.2 -262.7541 0 0 1 1 1
+  480 0 0 0 0
+  -5 0 35.5 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 25 -262.7541 0 0 1 1 1
+  0 0 0 0 0
+  -11 0 25 -262.7541 0 0 1 1 1
+  48 0 0 0 0
+  -20 0 37.5 -262.7541 0 0 1 1 1
+  96 0 0 0 0
+  -3.5 0 39.5 -262.7541 0 0 1 1 1
+  144 0 0 0 0
+  12 0 31 -262.7541 0 0 1 1 1
+  192 0 0 0 0
+  18 0 14 -262.7541 0 0 1 1 1
+  240 0 0 0 0
+  4.5 0 -2 -262.7541 0 0 1 1 1
+  288 0 0 0 0
+  -15 0 4 -262.7541 0 0 1 1 1
+  336 0 0 0 0
+  -24.5 0 -13.5 -262.7541 0 0 1 1 1
+  384 0 0 0 0
+  -8 0 -28.5 -262.7541 0 0 1 1 1
+  432 0 0 0 0
+  6 0 -15.5 -262.7541 0 0 1 1 1
+  480 0 0 0 0
+  14 0 -7.5 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 15 -262.7541 0 0 1 1 1
+  0 0 0 0 0
+  -13.5 0 15 -262.7541 0 0 1 1 1
+  48 0 0 0 0
+  -5 0 26 -262.7541 0 0 1 1 1
+  96 0 0 0 0
+  11 0 41.5 -262.7541 0 0 1 1 1
+  144 0 0 0 0
+  21 0 24 -262.7541 0 0 1 1 1
+  192 0 0 0 0
+  23 0 4.5 -262.7541 0 0 1 1 1
+  240 0 0 0 0
+  18.5 0 -19 -95.29149 0 0 1 1 1
+  288 0 0 0 0
+  2 0 -26.5 -40.7175 0 0 1 1 1
+  336 0 0 0 0
+  -13 0 -14.5 12.84673 0 0 1 1 1
+  384 0 0 0 0
+  -20 0 2.5 22.9691 0 0 1 1 1
+  432 0 0 0 0
+  -23.5 0 19.5 -262.7541 0 0 1 1 1
+  480 0 0 0 0
+  -26.5 0 30.5 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 5 -262.7541 0 0 1 1 1
+  0 0 0 0 0
+  -13.5 0 6.5 -262.7541 0 0 1 1 1
+  48 0 0 0 0
+  -20 0 -6 -262.7541 0 0 1 1 1
+  96 0 0 0 0
+  -21 0 -23.5 -262.7541 0 0 1 1 1
+  144 0 0 0 0
+  -2.5 0 -30.5 -262.7541 0 0 1 1 1
+  192 0 0 0 0
+  8.5 0 -13.5 -262.7541 0 0 1 1 1
+  240 0 0 0 0
+  25 0 -3.5 -262.7541 0 0 1 1 1
+  288 0 0 0 0
+  39.5 0 -8.5 -262.7541 0 0 1 1 1
+  336 0 0 0 0
+  30.5 0 -17 -262.7541 0 0 1 1 1
+  384 0 0 0 0
+  25 0 -6 -262.7541 0 0 1 1 1
+  432 0 0 0 0
+  34 0 -2.5 -262.7541 0 0 1 1 1
+  480 0 0 0 0
+  39.5 0 7 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 -5 -262.7541 0 0 1 1 1
+  0 0 0 0 0
+  -8 0 -6.5 -122.3378 0 0 1 1 1
+  48 0 0 0 0
+  -24.5 0 -19.5 30.78883 0 0 1 1 1
+  96 0 0 0 0
+  -38.5 0 -6.5 73.31186 0 0 1 1 1
+  144 0 0 0 0
+  -23.5 0 11 -247.6991 0 0 1 1 1
+  192 0 0 0 0
+  -27 0 37 6.428317 0 0 1 1 1
+  240 0 0 0 0
+  -19.5 0 52 -197.9608 0 0 1 1 1
+  288 0 0 0 0
+  0 0 59.5 -195.2086 0 0 1 1 1
+  336 0 0 0 0
+  22.5 0 51.5 -194.8341 0 0 1 1 1
+  384 0 0 0 0
+  24 0 34.5 -142.4826 0 0 1 1 1
+  432 0 0 0 0
+  8.5 0 18 -114.1316 0 0 1 1 1
+  480 0 0 0 0
+  -6.5 0 21 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 -15 -91.08949 0 0 1 1 1
+  0 0 0 0 0
+  -14.5 0 -10.5 -28.63901 0 0 1 1 1
+  48 0 0 0 0
+  -13 0 8 56.97192 0 0 1 1 1
+  96 0 0 0 0
+  7 0 10.5 -246.7693 0 0 1 1 1
+  144 0 0 0 0
+  22 0 12 -170.1505 0 0 1 1 1
+  192 0 0 0 0
+  -7.5 0 -6 -126.8381 0 0 1 1 1
+  240 0 0 0 0
+  -24.5 0 11 -62.77372 0 0 1 1 1
+  288 0 0 0 0
+  -18 0 26 83.60548 0 0 1 1 1
+  336 0 0 0 0
+  -8 0 35 -250.7394 0 0 1 1 1
+  384 0 0 0 0
+  3 0 16 -248.552 0 0 1 1 1
+  432 0 0 0 0
+  18 0 20 -262.7541 0 0 1 1 1
+  480 0 0 0 0
+  29.5 0 24 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 -25 -91.08949 0 0 1 1 1
+  0 0 0 0 0
+  -18 0 -19 -27.38763 0 0 1 1 1
+  48 0 0 0 0
+  -3.5 0 -5.5 39.27972 0 0 1 1 1
+  96 0 0 0 0
+  -12.5 0 5.5 -268.3867 0 0 1 1 1
+  144 0 0 0 0
+  -14 0 25.5 -205.8715 0 0 1 1 1
+  192 0 0 0 0
+  3 0 33 -175.5479 0 0 1 1 1
+  240 0 0 0 0
+  16 0 23.5 -144.5433 0 0 1 1 1
+  288 0 0 0 0
+  14 0 11 -113.3971 0 0 1 1 1
+  336 0 0 0 0
+  -8 0 24.5 -27.16071 0 0 1 1 1
+  384 0 0 0 0
+  -24.5 0 14 69.5135 0 0 1 1 1
+  432 0 0 0 0
+  -7.5 0 1.5 -262.7541 0 0 1 1 1
+  480 0 0 0 0
+  1.5 0 -3 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Concubine null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  12
+  0 0 -35 -262.7541 0 0 1 1 1
+  0 0 0 0 0
+  -19 0 -29 -262.7541 0 0 1 1 1
+  48 0 0 0 0
+  -14 0 -12 -262.7541 0 0 1 1 1
+  96 0 0 0 0
+  -24 0 4.5 80.25437 0 0 1 1 1
+  144 0 0 0 0
+  -4 0 5 -222.7414 0 0 1 1 1
+  192 0 0 0 0
+  -13 0 24.5 -149.2979 0 0 1 1 1
+  240 0 0 0 0
+  0 0 39 -163.4253 0 0 1 1 1
+  288 0 0 0 0
+  22.5 0 23 -161.4015 0 0 1 1 1
+  336 0 0 0 0
+  16.5 0 0 -124.0148 0 0 1 1 1
+  384 0 0 0 0
+  1.5 0 -28.5 -20.03577 0 0 1 1 1
+  432 0 0 0 0
+  -4.5 0 -71.5 -174.2478 0 0 1 1 1
+  480 0 0 0 0
+  -7 0 -113 -262.7541 0 0 1 1 1
+  528 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ParentObject 25
+ShadowOptions 7
+
+AmbientColor 255 96 141
+AmbIntensity 0.000000
+
+AddLight
+LightName Party spot
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  -47.52626 1990 -306.9847 -1.800001 34.6 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 80.000000
+ConeAngle 60.000000
+EdgeAngle 30.000000
+ShadowType 1
+
+AddLight
+LightName Party spot
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  -59.25059 1976.5 -144.286 -218 43.6 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+LightColor 60 60 255
+LgtIntensity (envelope)
+  1
+  4
+  0.5
+  0 0 0 0 0
+  0.9480003
+  30 0 0 0 0
+  0.0480001
+  60 0 0 0 0
+  0.5
+  90 0 0 0 0
+EndBehavior 2
+LightType 2
+LightFalloff 1
+LightRange 60.000000
+ConeAngle 50.000000
+EdgeAngle 20.000000
+ShadowType 1
+
+AddLight
+LightName Party spot
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  -28.65661 1978.75 -183.2517 -111.9 58.59997 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 70.000000
+ConeAngle 50.000000
+EdgeAngle 20.000000
+ShadowType 1
+
+AddLight
+LightName Party spot
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  -81.7093 1986 -237.2067 36.2 64.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 70.000000
+ConeAngle 60.000000
+EdgeAngle 30.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  -52.20562 1974.547 -130.7691 -182.4 12.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+TargetObject 17
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint -65.050003 1966.500000 -197.099976
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 4.000001
+LayoutGrid 8
+GridSize 20.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

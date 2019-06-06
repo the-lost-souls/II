@@ -1,0 +1,220 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+FramesPerSecond 26.000000
+
+LoadObject H:\scenes\dance\obj\conhi_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -0.1 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+ShadowOptions 7
+
+AddNullObject Move Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  10
+  15.10001 0 0.025 0 0 0 1 1 1
+  0 0 0 0 0
+  7.684824 0 6.775 0 -16.4 0 1 1 1
+  55 0 0 0 0
+  4.775 0 -1.9 0 10 0 1 1 1
+  112 0 0 0 0
+  -0.2 0 -1.4 0 0 -8.000003 1 1 1
+  126 0 0 0 0
+  1.9 0 -3.2 0 0 14.6 1 1 1
+  150 0 0 0 0
+  -1.125 0 -2.075 0 0 -5.8 1 1 1
+  168 0 0 0 0
+  0.2499999 0 -4.4 0 0 -5.1 1 1 1
+  181 0 0 0 0
+  1.858548 0.02512643 -7.395327 0 1.846024 -0.1332345 1 1 1
+  200 0 0 0 0
+  1.9694 0 -9.0135 0 -49.35349 0.2120975 1 1 1
+  215 0 0 0 0
+  1.9 -1.225 -10 0 -90.00003 0 1 1 1
+  225 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+ShadowOptions 7
+
+AddNullObject Null Rotate
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  13
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 360 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 720 0 0 1 1 1
+  40 0 0 0 0
+  0 0 0 1080 0 0 1 1 1
+  60 0 0 0 0
+  0 0 0 1440 0 0 1 1 1
+  80 0 0 0 0
+  0 0 0 1800 0 0 1 1 1
+  100 0 0 0 0
+  0 0 0 2160 0 0 1 1 1
+  120 0 0 0 0
+  0 0 0 2520 0 0 1 1 1
+  140 0 0 0 0
+  0 0 0 2880 0 0 1 1 1
+  160 0 0 0 0
+  0 0 0 3060 0 0 1 1 1
+  180 0 0 0 0
+  0 0 0 3240 0 0 1 1 1
+  200 0 0 0 0
+  0 0 0 3260 0 0 1 1 1
+  210 0 0 0 0
+  0 0 0 3240 0 0 1 1 1
+  220 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 2
+ShadowOptions 7
+
+AddNullObject Speed Flare Head
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 6.775 -1.8 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 1
+ShadowOptions 7
+
+AddNullObject Speed Flare Shoulder
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -1 5.700001 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 1
+ShadowOptions 7
+
+AddNullObject Speed Flare Belt
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 3.175 0.475 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 1
+ShadowOptions 7
+
+AddNullObject Speed Flare Hands
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 2.8 -1.85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+AddNullObject Speed Flare "Feet"
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 1.425 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -6.049999 2 15.175 135 20 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 0 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  9.05 0 -23.85 0 20 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 138 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 3.5 -23.8834 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 1
+ViewAimpoint 15.100005 0.000000 0.025000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.185185
+LayoutGrid 8
+GridSize 5.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

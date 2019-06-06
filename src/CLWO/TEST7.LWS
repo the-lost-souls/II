@@ -1,0 +1,183 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 120
+FrameStep 1
+FramesPerSecond 10,000000
+
+LoadObject C:\CODE\E\TEST\box_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  -5 3 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject C:\CODE\E\TEST\floor_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -4,025001 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject C:\CODE\E\TEST\King_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 360 0 0 1 1 1
+  120 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0,000000
+
+AddLight
+LightName Light
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  5
+  -0,9999999 2,9 -1,3 60 30 0 0 0 0
+  0 0 0 0 0
+  -8,425001 4,95 -6,8 60 30 0 0 0 0
+  30 0 0 0 0
+  3,124999 5,875 -8,35 60 30 0 0 0 0
+  60 0 0 0 0
+  11,475 1,275 -0,07500026 60 30 0 0 0 0
+  90 0 0 0 0
+  -3,125 0 3,8 60 30 0 0 0 0
+  120 0 0 0 0
+EndBehavior 2
+LightColor 200 200 255
+LgtIntensity (envelope)
+  1
+  4
+  0,132
+  0 0 0 0 0
+  0,6840002
+  20 0 0 0 0
+  0,228
+  46 0 0 0 0
+  0,6840003
+  60 0 0 0 0
+EndBehavior 1
+LightType 2
+LightFalloff 1
+LightRange (envelope)
+  1
+  4
+  0,516
+  0 0 0 0 0
+  20,506
+  34 0 0 0 0
+  3,311998
+  52 0 0 0 0
+  93,14001
+  60 0 0 0 0
+EndBehavior 1
+ConeAngle (envelope)
+  1
+  5
+  5,799999
+  0 0 0 0 0
+  4,800001
+  34 0 0 0 0
+  24,4
+  43 0 0 0 0
+  20,8
+  51 0 0 0 0
+  1,200001
+  60 0 0 0 0
+EndBehavior 1
+EdgeAngle (envelope)
+  1
+  4
+  2,140001
+  0 0 0 0 0
+  2,64
+  27 0 0 0 0
+  4,5
+  46 0 0 0 0
+  0,8
+  60 0 0 0 0
+EndBehavior 1
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  5
+  -0,9999999 2,9 -1,3 60 30 0 0 0 0
+  0 0 0 0 0
+  -8,425001 4,95 -6,8 60 30 0 0 0 0
+  30 0 0 0 0
+  3,124999 5,875 -8,35 60 30 0 0 0 0
+  60 0 0 0 0
+  11,475 1,275 -0,07500026 60 30 0 0 0 0
+  90 0 0 0 0
+  -3,125 0 3,8 60 30 0 0 0 0
+  120 0 0 0 0
+EndBehavior 2
+LightColor 200 200 255
+LgtIntensity 1,000000
+LightType 1
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 -15 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+ParentObject 3
+TargetObject 1
+ZoomFactor 3,000000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 8
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint 0,000000 0,000000 0,000000
+ViewDirection 0,000000 -0,174533 0,000000
+ViewZoomFactor 2,133333
+LayoutGrid 8
+GridSize 5,000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

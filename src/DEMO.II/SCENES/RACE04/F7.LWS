@@ -1,0 +1,306 @@
+LWSC
+1
+
+FirstFrame 230
+LastFrame 900
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\scenes\race04\obj\long_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\race04\obj\morph_5.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject H:\scenes\race04\obj\lane_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph 1.000000
+MorphTarget 2
+MorphSurfaces 0
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  32
+  -2695 1969 -3602 0.1270638 7.389886 0 1 1 1
+  0 0 0 0 0
+  -2647.158 1914.244 -8919.91 -180.5182 -2.282925 0 1 1 1
+  30 0 0 0 0
+  -2622.785 1940.68 -11955.9 -180.5634 -6.386895 0 1 1 1
+  45 0 0 0 0
+  -2594.5 2501 -14249.5 -180.9933 -15.73333 0 1 1 1
+  60 0 0 0 0
+  -2548.413 3031.869 -16568.37 -180.9053 -7.716886 0 1 1 1
+  75 0 0 0 0
+  -2515.356 3252.319 -19095.82 -180.721 -3.721086 0 1 1 1
+  90 0 0 0 0
+  -2492.878 3340.367 -21646.52 -179.5318 1.087129 0 1 1 1
+  105 0 0 0 0
+  -2555.5 3149 -25118 -178.4273 7.79743 0 1 1 1
+  120 0 0 0 0
+  -2545.26 2388.412 -29411.33 -177.6879 5.835607 0 1 1 1
+  135 0 0 0 0
+  -3100.607 1790.669 -36864.14 -165.1393 8.760631 0 1 1 1
+  150 0 0 0 0
+  -6230.5 140.5 -43956.5 -146.5565 9.570051 0 1 1 1
+  180 0 0 0 0
+  -10688.24 -592 -48864.26 -136.7106 1.197712 0 1 1 1
+  210 0 0 0 0
+  -15394 -108 -53685 -146.0542 -8.681577 0 1 1 1
+  240 0 0 0 0
+  -18358.97 1435.594 -60155.25 -164.8987 -12.49014 0 1 1 1
+  270 0 0 0 0
+  -19156.5 3090 -66991.5 -175.7144 -13.58992 0 1 1 1
+  300 0 0 0 0
+  -19202.22 4007.982 -70987.82 -180.7001 -7.895238 0 1 1 1
+  315 0 0 0 0
+  -19031.89 4240.367 -75006.16 -188.161 2.943172 0 1 1 1
+  330 0 0 0 0
+  -18268.99 3639.153 -78817.38 -196.3858 15.118 0 1 1 1
+  345 0 0 0 0
+  -16837 2282 -82574.5 -209.6195 18.51761 0 1 1 1
+  360 0 0 0 0
+  -12925.59 19.5527 -88288.86 -215.9771 12.43557 0 1 1 1
+  390 0 0 0 0
+  -8545 -854 -93838.5 -222.3082 1.250612 0 1 1 1
+  420 0 0 0 0
+  -3396.034 -546.8377 -98740.05 -237.336 -6.013276 0 1 1 1
+  450 0 0 0 0
+  3519 726 -101730.5 -252.4818 -9.47871 0 1 1 1
+  480 0 0 0 0
+  6941.582 1261.412 -102224.2 -265.0889 -4.585993 0 1 1 1
+  495 0 0 0 0
+  10393.92 1357.528 -102360.9 -268.5634 -3.806348 0 1 1 1
+  510 0 0 0 0
+  17551 1900 -102494.5 -267.7176 -2.255082 0 1 1 1
+  540 0 0 0 0
+  33071 1900 -102762.5 -269.0286 0 0 1 1 1
+  600 0 0 0 0
+  49519 1900 -103050.5 -269.4911 -2.76634 0 1 1 1
+  660 0 0 0 0
+  65087 1900 -103226.5 -269.5513 -2.788402 0 1 1 1
+  720 0 0 0 0
+  81239 1900 -103306.5 -269.3151 -2.660339 0 1 1 1
+  780 0 0 0 0
+  98303 1900 -103618.5 -268.7029 -2.621179 0 1 1 1
+  840 0 0 0 0
+  114995 1900 -104066.5 14.3 1.6 0 1 1 1
+  900 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  17
+  -2380.5 1900 -2703 -179.2721 -5.046979 0 1 1 1
+  0 0 0 0 0
+  -2359.969 1846.716 -7970.217 -180.2285 -2.633871 0 1 1 1
+  30 0 0 0 0
+  -2347.928 1958.971 -10570.83 -180.3325 -7.534995 0 1 1 1
+  45 0 0 0 0
+  -2350.5 2125 -13105.5 -179.7944 -11.57847 0 1 1 1
+  60 0 0 0 0
+  -2354.9 2856.357 -15460.58 -179.2786 -12.0869 0 1 1 1
+  75 0 0 0 0
+  -2349.372 3191.911 -17987.65 -179.2242 -2.7313 0 1 1 1
+  90 0 0 0 0
+  -2358 3175 -24018 -180.0984 4.480661 0 1 1 1
+  120 0 0 0 0
+  -2364.393 2546.627 -28487.93 -178.2214 6.294387 0 1 1 1
+  135 0 0 0 0
+  -2733.406 1878.938 -35472.83 -167.6505 7.903057 0 1 1 1
+  150 0 0 0 0
+  -3922.327 1285.427 -39680.29 -159.4133 11.73786 0 1 1 1
+  165 0 0 0 0
+  -5500.5 370 -43075.5 -150.0098 8.906881 0 1 1 1
+  180 0 0 0 0
+  -10103.9 -528.5573 -48327.49 -136.2591 2.419474 0 1 1 1
+  210 0 0 0 0
+  -14890.5 -245 -53065.5 -143.659 -7.828075 0 1 1 1
+  240 0 0 0 0
+  -18243 1300 -59500.5 -162.3441 0.5149191 0 1 1 1
+  270 0 0 0 0
+  -19165.5 3025 -66498 -176.5981 -11.33508 0 1 1 1
+  300 0 0 0 0
+  -19128 4232.5 -74305.5 -187.4734 1.989201 0 1 1 1
+  330 0 0 0 0
+  -17208 2695 -82345.5 0 0 0 1 1 1
+  360 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\s1_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 4
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 4
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\s1_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+AddNullObject Ship1Glow
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 40 -85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 4
+ShadowOptions 7
+
+AddNullObject Ship2Glow
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 40 -85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 0 90 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 0 0 0
+LgtIntensity 0.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 30 30 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  3
+  -17976.78 2600 -58519.38 -332.8 20 0 1 1 1
+  0 0 0 0 0
+  -17976.78 2000 -58519.38 -332.8 30 0 1 1 1
+  230 0 0 0 0
+  -17976.78 1500 -58519.38 -332.8 50 0 1 1 1
+  290 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 0
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 6600000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 0
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+SaveAnimationName D:\test2.avi
+AnimationType 5
+
+ViewMode 5
+ViewAimpoint -11386.062500 4701.275879 -57317.437500
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 0.790125
+LayoutGrid 8
+GridSize 1500.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

@@ -1,0 +1,61 @@
+x = ferdig
+u = utsatt
+
+M† gj›res:
+	-diverse "copy canvas"-rutiner.
+		*Hicolor, bank switching
+		*Hicolor, LFB
+		*"Stretch"-mode, bank switching
+		*"Stretch"-mode, LFB
+		*Fakemode A (H›y oppl›sning, RGB-linjer)
+		*Fakemode B (standard oppl›sning, 8-bit RGB)
+		*Fading, crossfading, t†ke
+x       -V03, flatshading
+x       -V04, tmap, flatshading
+x       -V0x, flatshading, transparent
+U       -V0x, flatshading, tmap, transparent
+x       -point-lights
+U       -spot-lights
+x       -Tids-rutiner, timing
+x       -test ut Midas-ting
+x       -CLWO med .lws-st›tte (i Watcom C++)
+U       -T04, optimisert flat
+U       -T05, optimisert tmap + flat
+x       -T0x, transparent flat
+U       -T0x, transparent flat + tmap
+x       -loader for scene-filer
+x       -vesa-bibliotek (TOE)
+x       -T0x_org, flat
+x       -T0x_org, flat + tmap
+U       -mip-mapping... ?
+x       -linear tmapping, shaded
+x       -linear tmapping, non-shaded
+x       -V0x, env. map with shading
+x       -V0x, env. map without shading
+x       -mapscale-ting, f.eks. ved bruk av flares
+
+x       -timing
+x       -logo-map
+x       -flash/fading-objekt
+x       -transparent-sorterings-prioriteringsgreier...
+x       -linear keyframes
+U       -negative lys
+x       -fix texture-loader-system. Ingen duplikate
+	texturer!
+x       -glow-unloader
+U       -flare med intensitet avhengig av vinkel mellom
+	lys<->kamera
+x       -fix bug på flatshading/transparent
+	-flatshading med en hvit linje langs kanten
+x       -fix bug med tga (RLE)
+	-minne-ting, test om alt blir fjernet
+x       -!!!t†ke-ting!!!
+x       -!!!2d-effekt!!!!
+
+	-klipp opp d›rene p† race02!!!
+	-fix mapping p† sidene race02
+	-bytt ut flares på race01
+	-nye flares på city!
+	-sjekk gr›nn dings p† race02!!!
+
+

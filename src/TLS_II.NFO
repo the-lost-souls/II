@@ -1,0 +1,187 @@
+22222222222222222222222222222222222222222222222222222222222222222222222222222
+
+                                 лллл  лллл
+                                  лл    лл
+                                  лл    лл
+                                  лл    лл
+                                 лллл  лллл
+
+                                    demo
+                                     by
+                            -= The Lost Souls =-
+
+                           Visually  in  Control
+
+22222222222222222222222222222222222222222222222222222222222222222222222222222
+
+starring:
+
+CYBERFISH
+                code/gfx
+
+RAWHEAD
+                gfx/3d
+
+KEZOOMER
+                music/gfx/sfx
+
+TOE/DU
+                additional code
+
+
+
+
+
+[ SYSTEM REQUIREMENTS ]
+486+
+hard disk
+ram
+VESA 2.0 or higher
+
+Recommended:
+p150+
+soundcard (GUS/SB/other)
+nice gfx card
+SDRAM
+
+
+[ TROUBLESHOOTING ]
+
+You may have troubles running the demo with Univbe v6.0 or higher. I don't
+know why. Just get version 5.3 or something.
+
+The player may autodetect wrong irq and dma for your soundcard, so if you
+don't get any music, just set the values manually. (Reselect your soundcard
+from the soundcard list and configure).
+
+
+[ DESIGN MATTERS ]
+
+A lot of work was put into the design of this demo. We wanted a demo
+that was able to keep the pace up, without long intros, not showing one
+single effect for 5 minutes and so on. (New effects can be fascinating,
+but not for hours and hours...) No linear camerapaths. Not those
+long, neverending camerapaths, but nice filmatic camera angles, movement
+and cutting.
+Design makes half the demo.
+Demos that makes you want to press the escape key are failures,
+nothing more.
+We could easily have made this demo over 10 minutes long, but we kept it
+short and neat on purpose.
+Less is more.
+
+
+[ TECHNOBABBLE ]
+
+The racing part contains 4 scenes and 14 cuts. Each scene has a facecount
+of 2000-3000 faces. We originally had this racing-"idea" (idea, well, no
+question we were inspired by Wipeout...) about a year ago, and planned to
+make it TG97, but lousy code and a bit of perfectionism amongst the TLS crew
+lead to postponing the release to a later date. Then we started all over again.
+The part introduced by the birdlike creatures is one single camera shot
+containing various spacecrafts, squidborgs (heh) and occational buildings.
+The total facecount reaches over 2000. And of course plenty of maps.
+The surface painting flares part... Snazzy idea by Cyberfish while walking
+over the Elgeseter bridge on his way home from school.
+The concubine dancing part takes place in a temple made out of almost
+1000 polygons. The 8 concubines has about 170 faces each. Over 3500 polygons
+were needed to make the scene as moody as it looks. The "concubine temple
+dance" was created by Kezoomer on a piece of paper on a late evening.
+
+Ok, I guess you really good coders out there laugh at us and our 2000-faces
+scenes, but everything is z-buffered and that's mainly why it is as slow as
+it is. Why z-buffering? Severeal reasons. It looks nice, and our 3d-modeler
+doesn't have to create scenes where the polys can be easily depthsorted. The
+outdoor racingscene would be terrible to model, if the lane couldn't just
+slip into the ground like that. Z-buffering is slow, but it doesn't matter
+how slow your code is, as long as the scenes are fast enough.
+
+BTW; There are two things I am really ashamed of in this demo. The first thing
+is that all textures are TGAs... :) And second the player doesn't support
+hardware GUS mixing. Too bad.
+
+
+[ MUSIC ]
+
+The music was made with Impulse Tracker, which is a quite excellent
+tracker. The only problem is, no players really support it... Except
+midas. But the IT option in midas has a few bugs, so if you think the
+stereo is weird sometimes, it's probably because of the player.
+The demosong has about 60 samples and over 100 patterns in it.
+Kezoomer started to make this tune in january '97 for TG97, but it was
+never finished. After almost a year the song is thoroughly perfected to fit
+each part in the demo.
+Useless info, ey?
+
+
+Current membership status:
+Cyberfish - code        cyberfish@tls.no
+Rawhead   - gfx/3d        rawhead@tls.no
+Kezoomer  - music        kezoomer@tls.no
+MTB       - support           mtb@tls.no
+kulde     - support         kulde@tls.no
+
+www.tls.no
+
+GREETINGS (in completely random order):
+
+kravitz/sublogic
+erlend/nocturnal
+tmk
+yitzhaq
+calvin
+infernal
+toe/Deckers Union
+Caramel/Fascination
+mike x
+axon
+rib
+norsk & skurk/hoaxers
+Wobba/crs
+allan0n
+sprocket
+Teasy/Sympathy
+Nightshade / TRSi
+opaQue/sublevel 3
+Zauron/?
+Juggler/Xtaxy
+Mystical/Purple
+wain/nail
+pedr0/CBR
+Tr/TNG
+Lunkwill & tChr/ELQ
+Anakata
+Moony/Solid
+
+and all the people we forgot...howdy folks
+
+
+...and of course to the pathetic "urinherren" for his brilliant alias
+
+
+And now a little joke for the well educated:
+
+Two atoms walked down a road.
+Suddenly one of them stopped.
+- I've lost an electron!
+he said
+
+- Are you sure?
+said the other one
+
+- I'm positive
+
+WWWHOAAAAAAAAAAAAAAAAA!   :-D
+
+Annoying fact:
+IBM sponsors the quake compo with a 40.000kr computer as 1st prize.
+That's 2 times the pc demo prize.
+*sigh*
+What is the world coming to?
+
+
+
+Look out for future TLS productions!
+
+
+

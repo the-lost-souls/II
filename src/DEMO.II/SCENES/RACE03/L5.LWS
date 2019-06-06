@@ -1,0 +1,263 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 100
+FrameStep 1
+FramesPerSecond 15.000000
+
+LoadObject H:\scenes\race03\obj\lane_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph 1.000000
+MorphTarget 2
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject H:\scenes\race03\obj\morph_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 29
+ParentObject 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 29
+ParentObject 6
+ShadowOptions 7
+
+AddNullObject ShipNull1
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  11
+  9318.052 0 147782.5 -116 0 0 1 1 1
+  0 0 0 0 0
+  8218.052 0 147532.5 -116.4359 0 0 1 1 1
+  10 0 0 0 0
+  6808.052 40 147062.5 -106.8524 -0.8521999 5 1 1 1
+  20 0 0 0 0
+  4918.052 70 146402.5 -117.5213 -1.4331 10 1 1 1
+  30 0 0 0 0
+  2638.052 130 144912.5 -141.8407 -0.0073 15 1 1 1
+  40 0 0 0 0
+  858.0518 110 142152.5 -161.9632 0.814118 15 1 1 1
+  50 0 0 0 0
+  98.0518 75 138752.5 -177.9139 0.4561101 10 1 1 1
+  60 0 0 0 0
+  128.0518 50 135652.5 -179.3422 0.0472 6 1 1 1
+  70 0 0 0 0
+  168.0518 40 132212.5 -180.7992 0.6815015 0 1 1 1
+  80 0 0 0 0
+  158.0518 0 129012.5 -181.6835 0 0 1 1 1
+  90 0 0 0 0
+  198.0518 0 126322.5 -110.5088 0 0 1 1 1
+  100 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 4
+ShadowOptions 7
+
+AddNullObject ShipNull2
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  11
+  8680 58 147910 -121.9722 0 0 1 1 1
+  0 0 0 0 0
+  7480 58 147400 -118.0913 0 0 1 1 1
+  10 0 0 0 0
+  5590 118 146500 -117.4157 -2.781984 0 1 1 1
+  20 0 0 0 0
+  3370 198 145290 -122.2601 -2.2923 15 1 1 1
+  30 0 0 0 0
+  1900 268 144190 -138.9588 -1.4656 20 1 1 1
+  40 0 0 0 0
+  540 298 142270 -162.711 2.914 20 1 1 1
+  50 0 0 0 0
+  0 158 139730 -175.7677 0.3721 15 1 1 1
+  60 0 0 0 0
+  -130 158 136680 -179.3952 0.7559 10 1 1 1
+  70 0 0 0 0
+  -140 108 133550 -179.9674 1.0157 5 1 1 1
+  80 0 0 0 0
+  -140 58 130350 -180.1177 0 0 1 1 1
+  90 0 0 0 0
+  -140 58 126910 -116.5187 -0.534623 0 1 1 1
+  100 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 4
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+AddNullObject Ship1Glow
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 40 -85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+AddNullObject Ship2Glow
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 40 -85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  5812.5 400 146492.5 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 3500.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  102.5 400 139762.5 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 3500.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  72.5 400 128405 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 3500.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  -126.068 342.5 139374 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+TargetObject 3
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint 8840.812500 66.257813 148026.796875
+ViewDirection -0.455531 -0.619592 0.000000
+ViewZoomFactor 68.343536
+LayoutGrid 8
+GridSize 2000.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

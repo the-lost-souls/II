@@ -1,0 +1,387 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 60
+PreviewFrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\scenes\dance\obj2\floor_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\dance\obj\tempalta.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\dance\obj\altaligh.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -59 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -41 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject H:\dance\obj\tempreis.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\dance\obj\statue.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gasphen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gasphenb.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gongfoot.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 16
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gongarmm.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 10
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gongarm.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 10
+Metamorph 1.000000
+MorphTarget 11
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gongrope.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 12
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gong.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+LoadObject H:\dance\obj\gongclub.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 12
+ShadowOptions 7
+
+AddNullObject Gong Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -33.75 1962 -160.6 40 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject H:\dance\obj\conc02.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -27 1957.7 -172.0782 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 51
+ShadowOptions 7
+
+AddNullObject Party Spot Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -46 2007 -190 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+AmbientColor 255 15 105
+AmbIntensity 0.000000
+
+AddLight
+LightName AltarLight Left  01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 4
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName AltarLight Right  01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName Gas Phenomena Light 01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -70.2 1960 -247 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+LightColor 255 157 85
+LgtIntensity 0.500000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName Gas Phenomena Light 02
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -29.8 1960 -247 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 2
+LightColor 255 157 85
+LgtIntensity 0.500000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName Party Spot 01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 -1.25 -48.75 0 60 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 18
+LightColor 255 255 255
+LgtIntensity 0.500000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName Party Spot 02
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 -1.25 32 0 120 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 43
+ParentObject 18
+LightColor 255 255 255
+LgtIntensity 0.500000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName Party Spot 03
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  25.75 -26.75 48 30 150 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 46
+ParentObject 18
+LightColor 255 255 255
+LgtIntensity 0.500000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName Party Spot 04
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -34.25 -26.75 -62 30 30 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 46
+ParentObject 18
+LightColor 255 255 255
+LgtIntensity 0.500000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  -72.41359 1962.547 -239.3728 34.3 -0.5000005 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+Resolution 1
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint -46.000000 2005.750000 -238.750000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 6.000001
+GridNumber 30
+GridSize 5.000000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

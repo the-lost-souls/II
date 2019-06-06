@@ -1,0 +1,8 @@
+file v.obj
+file w:\general\sys.lib
+file w:\vectors\vectors.lib
+file w:\render\render.lib
+file w:\gfx\gfx.lib
+file w:\plugins\plugins.lib
+file w:\test\lists.obj
+option stack=262144

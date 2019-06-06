@@ -1,0 +1,2831 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 1000
+FrameStep 4
+FramesPerSecond 30.000000
+
+AddNullObject Move Bull Flock
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  12 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+ParentObject 12
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  14 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  18 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  12 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  18 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  12 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 4
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  12 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  18 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  12 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 6
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  14 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  20 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  14 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  20 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  12 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  20 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 8
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  12 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  20 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 9
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  14 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  16 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  22 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 13
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  371.6092 -125 -693.5082 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  13 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  19 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+ParentObject 24
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  15 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  19 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 14
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  13 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  19 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 14
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  13 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  17 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  19 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 16
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  13 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  19 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 14
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  13 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  17 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  19 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 18
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  15 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  22 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 14
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  15 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  22 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 14
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  13 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  15 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  22 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 20
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  13 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  15 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  22 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 21
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  15 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  17 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 46
+ParentObject 25
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  124.1306 -45 -150 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  14 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+ParentObject 36
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  16 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  20 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 26
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  14 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  20 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 26
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  14 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 28
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  14 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  20 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 26
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  14 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  16 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  24 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 26
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  16 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  24 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 26
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  24 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 32
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  24 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 33
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  16 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  18 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  26 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 37
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  400 -137.5 -565.4634 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  16 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+ParentObject 48
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  18 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  24 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 38
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  16 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  24 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 38
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  24 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 40
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  16 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  24 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 38
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  24 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 42
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  18 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  28 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 38
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  18 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  28 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 38
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  18 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  28 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 44
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  18 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  28 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 45
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 49
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  278.4648 -87.5 -317.372 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  2 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  7 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+ParentObject 60
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  2 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  5 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  7 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 50
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  2 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  4 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  7 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 50
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  2 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  4 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  7 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 52
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  2 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  4 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  7 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 50
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  2 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  4 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  7 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 54
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  2 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  5 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 50
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  2 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  5 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 50
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  2 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  4 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  5 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 56
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  2 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  4 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  5 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 57
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  2 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  5 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  9 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  10 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 61
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  171.4463 -50 -406.8326 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 53
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  12 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+ParentObject 72
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  14 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  18 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 62
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  12 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  18 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 62
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  12 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 64
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  12 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  18 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 62
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  12 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 66
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  14 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  20 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 62
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  14 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  20 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 62
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  12 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  20 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 68
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  12 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  20 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 69
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  14 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  16 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  22 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 73
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -9.927782 0 7.735785 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  13 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  19 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+ParentObject 84
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  15 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  19 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 74
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  13 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  19 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 74
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  13 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  17 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  19 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 76
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  13 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  19 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 74
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  13 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  17 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  19 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 78
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  15 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  22 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 74
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  15 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  22 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 74
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  13 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  15 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  22 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 80
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  13 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  15 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  22 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 81
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  15 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  17 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  26 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 85
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  269.76 -82.5 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  14 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+ParentObject 96
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  16 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  20 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 86
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  14 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  20 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 86
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  14 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 88
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  14 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  20 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 86
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  14 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  18 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 90
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  16 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  24 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 86
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  16 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  24 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 86
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  24 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 92
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  14 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  24 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 93
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  16 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  18 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  26 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  28 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 97
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 27.5 -369.5236 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  16 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  24 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+ParentObject 108
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  6 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  18 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  24 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 98
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  16 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  24 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 98
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  24 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 100
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  6 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  16 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  24 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 98
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  16 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  20 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  24 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 102
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  18 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  28 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 98
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  18 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  28 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 98
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  18 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  28 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 104
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  16 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  18 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  28 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 105
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  33 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 109
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  105.539 -7.5 -644.574 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 1
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bbody.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  2 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  7 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+ParentObject 120
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bhead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 23 -54.75 0 -5 0 1 1 1
+  0 0 0 0 0
+  0 23 -54.75 0 -4.495407 0 1 1 1
+  1 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  2 0 0 0 0
+  0 23 -54.75 0 -10 0 1 1 1
+  5 0 0 0 0
+  0 23 -54.75 0 2 0 1 1 1
+  7 0 0 0 0
+  0 23 -54.75 0 -5 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 23 -54.75
+ParentObject 110
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bufrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 15 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 13.93778 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 -7.470519e-006 0 1 1 1
+  2 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  4 0 0 0 0
+  0 4 -24 0 49.99996 0 1 1 1
+  7 0 0 0 0
+  0 4 -24 0 15 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 1576
+PivotPoint 0 4 -24
+ParentObject 110
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blfrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -35 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -37.37482 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70 0 1 1 1
+  2 0 0 0 0
+  0 -44 -22 0 -85 0 1 1 1
+  4 0 0 0 0
+  0 -44 -22 0 -65 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -5 0 1 1 1
+  7 0 0 0 0
+  0 -44 -22 0 -35 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 520
+PivotPoint 0 -44 -22
+ParentObject 112
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\buflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 4 -24 0 25 0 1 1 1
+  0 0 0 0 0
+  0 4 -24 0 23.5837 0 1 1 1
+  1 0 0 0 0
+  0 4 -24 0 4.999997 0 1 1 1
+  2 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  4 0 0 0 0
+  0 4 -24 0 60 0 1 1 1
+  7 0 0 0 0
+  0 4 -24 0 25 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 4 -24
+ParentObject 110
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blflleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -44 -22 0 -30 0 1 1 1
+  0 0 0 0 0
+  0 -44 -22 0 -32.72889 0 1 1 1
+  1 0 0 0 0
+  0 -44 -22 0 -70.00003 0 1 1 1
+  2 0 0 0 0
+  0 -44 -22 0 -80 0 1 1 1
+  4 0 0 0 0
+  0 -44 -22 0 -60 0 1 1 1
+  6 0 0 0 0
+  0 -44 -22 0 -2 0 1 1 1
+  7 0 0 0 0
+  0 -44 -22 0 -30 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -44 -22
+ParentObject 114
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\bubrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -26.10002 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -24.56019 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 3.299981 0 1 1 1
+  2 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  5 0 0 0 0
+  0 5 75 0 -60 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -26.10002 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 552
+PivotPoint 0 5 75
+ParentObject 110
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblreg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 5 75 0 -9.700006 0 1 1 1
+  0 0 0 0 0
+  0 5 75 0 -8.767731 0 1 1 1
+  1 0 0 0 0
+  0 5 75 0 8.099992 0 1 1 1
+  2 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  5 0 0 0 0
+  0 5 75 0 -65 0 1 1 1
+  8 0 0 0 0
+  0 5 75 0 -9.700006 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 5 75
+ParentObject 110
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blbrleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 0 56.10001 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 0 55.7981 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 0 50.00001 0 1 1 1
+  2 0 0 0 0
+  0 -40 62.5 0 45 0 1 1 1
+  4 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  5 0 0 0 0
+  0 -40 62.5 0 10 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 0 56.10001 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 116
+ShadowOptions 7
+
+LoadObject H:\lastscns\obj\bulls\blblleg.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  0 0 0 0 0
+  0 -40 62.5 -0.1001583 53.17111 0 1 1 1
+  1 0 0 0 0
+  0 -40 62.5 -0.1 44.99999 0 1 1 1
+  2 0 0 0 0
+  0 -40 62.5 0 40 0 1 1 1
+  4 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  5 0 0 0 0
+  0 -40 62.5 0 20 0 1 1 1
+  8 0 0 0 0
+  0 -40 62.5 -0.1 53.6 0 1 1 1
+  9 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+PivotPoint 0 -40 62.5
+ParentObject 117
+ShadowOptions 7
+
+AddNullObject Bull  Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0.872 0 0 0.4359999 0 1 1 1
+  1 0 0 0 0
+  0 8 0 0 3.999999 0 1 1 1
+  2 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  5 0 0 0 0
+  0 10 0 0 3.15 0 1 1 1
+  6 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  9 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  10 0 0 0 0
+EndBehavior 2
+LockedChannels 45
+ParentObject 121
+ShadowOptions 7
+
+AddNullObject Move Bull Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -168.7949 97 -200.602 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 53
+ParentObject 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  85558.02 273462 -130313.8 90 90 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  6
+  98.05561 138.25 -82.96373 -52.80001 47.3 0 1 1 1
+  0 0 0 0 0
+  98.05561 138.25 -82.96373 -52.80001 47.3 0 1 1 1
+  1 0 0 0 0
+  98.05561 138.25 -82.96373 -52.80001 47.3 0 1 1 1
+  6 0 0 0 0
+  98.05561 138.25 -82.96373 -52.80001 47.3 0 1 1 1
+  14 0 0 0 0
+  98.05561 138.25 -82.96373 -52.80001 47.3 0 1 1 1
+  20 0 0 0 0
+  98.05561 138.25 -82.96373 -52.80001 47.3 0 1 1 1
+  28 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ZoomFactor 3.200000
+RenderMode 1
+RayTraceEffects 0
+Resolution 0
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 6600000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 0
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+SaveAnimationName D:\test2.avi
+AnimationType 5
+
+ViewMode 5
+ViewAimpoint 150221.312500 4774.775391 -116804.546875
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 2.666668
+LayoutGrid 8
+GridSize 1500.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

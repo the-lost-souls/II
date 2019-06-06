@@ -1,0 +1,82 @@
+Order 0: 95
+Order 1: 1005
+Order 2: 1804
+Order 3: 2580
+Order 4: 2851
+Order 5: 3121
+Order 6: 3392
+Order 7: 3662
+Order 8: 3932
+Order 9: 4203           starter loepet...
+Order 10: 4473
+Order 11: 4744          flash (forbikjoring)
+Order 12: 5281		bytt kameravinkel
+Order 13: 5285
+Order 14: 5555
+Order 15: 5826
+Order 16: 6362
+Order 17: 6367
+Order 18: 6637
+Order 19: 6907
+Order 20: 7178
+Order 21: 7448
+Order 22: 7719
+Order 23: 7989
+Order 24: 8260
+Order 25: 8530
+Order 26: 8801
+Order 27: 9071
+Order 28: 9342
+Order 29: 9616
+Order 30: 10157
+Order 31: 10698
+Order 32: 11239
+Order 33: 11780
+Order 34: 12321
+Order 35: 12862
+Order 36: 13403
+Order 37: 13944
+Order 38: 14485
+Order 39: 15025
+Order 40: 15566
+Order 41: 16107
+Order 42: 17181
+Order 43: 17186
+Order 44: 17579
+Order 45: 17584
+Order 46: 17903
+Order 47: 18222
+Order 48: 18541
+Order 49: 18860
+Order 50: 19179
+Order 51: 19498
+
+Order 52: 19817         starting first outdoor scene
+Order 53: 20136
+Order 54: 20455		starting second outdoor scene
+Order 55: 20774
+Order 56: 21093         starting first indoor (slow)
+Order 57: 21412
+Order 58: 21731
+Order 59: 22050
+Order 60: 22369		starting behing gong
+Order 61: 22688
+Order 62: 23007		starting in back corner
+Order 63: 23326
+Order 64: 23645		other back corner, roof
+Order 65: 23964
+Order 66: 24283		right in front of concubine
+Order 67: 24602
+Order 68: 24921		starting long cut
+Order 69: 25240
+Order 70: 25559
+Order 71: 25878
+Order 72: 26197         starting free dance 1
+Order 73: 26516
+Order 74: 26835		free dance 2
+Order 75: 27154         free dance 3
+Order 76: 27787
+Order 77: 27792
+Order 78: 28111
+Order 79: 28430
+Order 80: 28749         twirl concubine... :)

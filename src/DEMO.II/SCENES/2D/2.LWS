@@ -1,0 +1,210 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 600
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\otherobs\grid_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 270 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  11
+  -0.25 4.75 -0.25 60 30 0 1 1 1
+  0 0 0 0 0
+  -76 6.25 51.75 60 30 0 1 1 1
+  90 0 0 0 0
+  11.75 17.25 78.25 60 30 0 1 1 1
+  180 0 0 0 0
+  -55.5 10.5 -56.25 60 30 0 1 1 1
+  270 0 0 0 0
+  36.75 2 -46.25 60 30 0 1 1 1
+  360 0 0 0 0
+  56.75 38 63.5 60 30 0 1 1 1
+  450 0 0 0 0
+  -8.5 29 -68.25 60 30 0 1 1 1
+  540 0 0 0 0
+  -65.75 92.5 6 60 30 0 1 1 1
+  630 0 0 0 0
+  27.5 8.75 73.25 60 30 0 1 1 1
+  720 0 0 0 0
+  60.25 10.75 -74.75 60 30 0 1 1 1
+  810 0 0 0 0
+  -56.25 18.75 -14.25 60 30 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  11
+  -48 24.75 -59.25 60 30 0 1 1 1
+  0 0 0 0 0
+  31.75 56.75 -65 60 30 0 1 1 1
+  90 0 0 0 0
+  -45.5 33.5 62.5 60 30 0 1 1 1
+  180 0 0 0 0
+  52.25 61 53.25 60 30 0 1 1 1
+  270 0 0 0 0
+  -64 12.25 4.75 60 30 0 1 1 1
+  360 0 0 0 0
+  57 3.75 -35.5 60 30 0 1 1 1
+  450 0 0 0 0
+  -6 12.5 62.5 60 30 0 1 1 1
+  540 0 0 0 0
+  71.5 6 -2.5 60 30 0 1 1 1
+  630 0 0 0 0
+  -0.75 19.5 38 60 30 0 1 1 1
+  720 0 0 0 0
+  -19.25 8 -40 60 30 0 1 1 1
+  810 0 0 0 0
+  -57.25 32.25 60 60 30 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  11
+  0 57 48.5 60 30 0 1 1 1
+  0 0 0 0 0
+  -62.5 6.25 -43.75 60 30 0 1 1 1
+  90 0 0 0 0
+  85 61.75 6.75 60 30 0 1 1 1
+  180 0 0 0 0
+  -67 6.25 54.25 60 30 0 1 1 1
+  270 0 0 0 0
+  -39.5 43 -65.25 60 30 0 1 1 1
+  360 0 0 0 0
+  -30.25 5.5 61.5 60 30 0 1 1 1
+  450 0 0 0 0
+  82.25 12 21.25 60 30 0 1 1 1
+  540 0 0 0 0
+  -15 11.75 -50.75 60 30 0 1 1 1
+  630 0 0 0 0
+  -62.5 23.75 74.75 60 30 0 1 1 1
+  720 0 0 0 0
+  -9.5 39.75 16 60 30 0 1 1 1
+  810 0 0 0 0
+  71 5 -51.25 60 30 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  11
+  -71.25 19.75 70 60 30 0 1 1 1
+  0 0 0 0 0
+  -49 6.25 -19.25 60 30 0 1 1 1
+  90 0 0 0 0
+  57.25 6.5 79 60 30 0 1 1 1
+  180 0 0 0 0
+  68.75 38 -40.75 60 30 0 1 1 1
+  270 0 0 0 0
+  -31.75 43.25 -56.5 60 30 0 1 1 1
+  360 0 0 0 0
+  -12.75 5 82.5 60 30 0 1 1 1
+  450 0 0 0 0
+  95.75 6.25 27.25 60 30 0 1 1 1
+  540 0 0 0 0
+  -78 29.75 -76 60 30 0 1 1 1
+  630 0 0 0 0
+  -57.25 45.25 70.75 60 30 0 1 1 1
+  720 0 0 0 0
+  54.5 60.5 50.25 60 30 0 1 1 1
+  810 0 0 0 0
+  33 19.25 -51.75 60 30 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  0 62.25 1.25 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 155 155
+LgtIntensity 1.000000
+LightType 1
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  5
+  -30 100 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -40 50 0 0 0 0 1 1 1
+  300 0 0 0 0
+  30 30 0 0 0 0 1 1 1
+  500 0 0 0 0
+  50 70 0 0 0 0 1 1 1
+  700 0 0 0 0
+  80 100 0 0 0 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+TargetObject 1
+LockedChannels 5
+ZoomFactor 3.000000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 8
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel
+
+ViewMode 2
+ViewAimpoint 24.000000 3.000000 -28.500000
+ViewDirection 0.000000 0.000000 0.000000
+ViewZoomFactor 1.422223
+LayoutGrid 8
+GridSize 50.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 2
+ShowFogRadius 0
+ShowRedraw 0

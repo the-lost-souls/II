@@ -1,0 +1,437 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 210
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\scenes\Race02\obj\speed_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\block_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  60 1 0 0 0
+  0 165.4999 0 0 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\doors_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 107.5 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 200 0 0 0 0 1 1 1
+  25 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 12
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 13
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\Grenl_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -19.9 0 -546.5 0 0 0 1 1 1
+  0 0 0 0 0
+  -19.9 0 -546.5 0 0 0 1 1 1
+  88 0 0 0 0
+  -19.9 0 -546.5 0 0 0 1 1 1
+  120 0 0 0 0
+  -19.9 0 -546.5 0 0 0 1 1 1
+  160 1 0 0 0
+  -19.9 0 -546.5 -90 0 0 1 1 1
+  165 1 0 0 0
+EndBehavior 1
+LockedChannels 48
+PivotPoint -10 0 -546.5
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\Redl_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  -19.9 0 -546.5 0 0 0 1 1 1
+  0 0 0 0 0
+  -19.9 0 -546.5 0 0 0 1 1 1
+  80 1 0 0 0
+  -19.9 0 -546.5 -90 0 0 1 1 1
+  90 1 0 0 0
+  -19.9 0 -546.5 -90 0 0 1 1 1
+  120 1 0 0 0
+  -19.9 0 -546.5 -90 0 0 1 1 1
+  135 1 0 0 0
+  -19.9 0 -546.5 0 0 0 1 1 1
+  140 1 0 0 0
+EndBehavior 1
+PivotPoint -10 0 -546.5
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\Redl2_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -19.90004 0 -546.5 0 0 0 1 1 1
+  0 0 0 0 0
+  -19.90004 0 -546.5 0 0 0 1 1 1
+  80 1 0 0 0
+  -19.90004 0 -546.5 -90 0 0 1 1 1
+  90 1 0 0 0
+  -19.90004 0 -546.5 -90 0 0 1 1 1
+  120 1 0 0 0
+  -19.90004 0 -546.5 0 0 0 1 1 1
+  125 1 0 0 0
+EndBehavior 1
+PivotPoint -10 0 -546.5
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\Grenr_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  19.9 0 -546.5 0 0 0 1 1 1
+  0 0 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  88 0 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  90 0 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  120 0 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  160 1 0 0 0
+  19.9 0 -546.5 90 0 0 1 1 1
+  165 1 0 0 0
+EndBehavior 1
+PivotPoint 10 0 -546.5
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\Redr_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  19.9 0 -546.5 0 0 0 1 1 1
+  0 0 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  80 1 0 0 0
+  19.9 0 -546.5 90 0 0 1 1 1
+  90 1 0 0 0
+  19.9 0 -546.5 90 0 0 1 1 1
+  120 1 0 0 0
+  19.9 0 -546.5 90 0 0 1 1 1
+  135 1 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  140 1 0 0 0
+EndBehavior 1
+PivotPoint 10 0 -546.5
+ParentObject 2
+ShadowOptions 7
+
+LoadObject H:\scenes\Race02\obj\Redr2_12.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  19.9 0 -546.5 0 0 0 1 1 1
+  0 0 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  80 1 0 0 0
+  19.9 0 -546.5 90 0 0 1 1 1
+  90 1 0 0 0
+  19.9 0 -546.5 90 0 0 1 1 1
+  120 1 0 0 0
+  19.9 0 -546.5 0 0 0 1 1 1
+  125 1 0 0 0
+EndBehavior 1
+LockedChannels 48
+PivotPoint 10 0 -546.5
+ParentObject 2
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  5
+  177.5 0 350 180 0 0 1 1 1
+  0 0 0 0 0
+  177.5 0 -105 180 0 0 1 1 1
+  90 0 0 0 0
+  177.5 0 -105 180 0 0 1 1 1
+  155 1 0 0 0
+  177.5 0 -105 180 0 0 1 1 1
+  165 1 0 0 0
+  177.5 0 -4080 180 0 0 1 1 1
+  210 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  5
+  -177.5 0 350 180 0 0 1 1 1
+  0 0 0 0 0
+  -177.5 0 -105 180 0 0 1 1 1
+  90 0 0 0 0
+  -177.5 0 -105 180 0 0 1 1 1
+  155 1 0 0 0
+  -177.5 0 -105 180 0 0 1 1 1
+  165 1 0 0 0
+  -177.5 0 -4130 180 0 0 1 1 1
+  210 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 12
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 13
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 50 -800 0 -40 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 1500.000000
+ShadowType 1
+
+AddLight
+LightName FlashLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 300 -800 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity (envelope)
+  1
+  4
+  0
+  0 0 0 0 0
+  0
+  160 1 0 0 0
+  1
+  165 1 0 0 0
+  0
+  210 1 0 0 0
+EndBehavior 1
+LightType 1
+ShadowType 1
+
+AddLight
+LightName spot1
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  2
+  0 30 -630 0 20 0 0 0 0
+  0 0 0 0 0
+  0 20 -630 360 20 0 0 0 0
+  140 0 0 0 0
+EndBehavior 2
+LightColor 255 200 200
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 600.000000
+ConeAngle 50.000000
+EdgeAngle 10.000000
+ShadowType 1
+
+AddLight
+LightName spot2
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  2
+  0 30 -630 180 20 0 0 0 0
+  0 0 0 0 0
+  0 20 -630 540 20 0 0 0 0
+  140 0 0 0 0
+EndBehavior 2
+LightColor 255 200 200
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 600.000000
+ConeAngle 50.000000
+EdgeAngle 10.000000
+ShadowType 1
+
+AddLight
+LightName GarageLight1
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  140 200 -154.016 0 90 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 300.000000
+ConeAngle 50.000000
+EdgeAngle 30.000000
+ShadowType 1
+
+AddLight
+LightName GarageLight2
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  -140 200 -151 0 90 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 300.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  9
+  -100 150 -800 15 15 0 1 1 1
+  0 0 0 0 0
+  -50 100 -870 10 10 0 1 1 1
+  60 0 0 0 0
+  0 70 -890 0 5 0 1 1 1
+  110 0 0.4 0 0
+  0 40 -910 0 0 0 1 1 1
+  165 0 1 0 0
+  0 40 -3500 0 0 0 1 1 1
+  210 0 0 0 0
+  0 40 -3500 0 0 0 1 1 1
+  399 1 0 0 0
+  0 40 -910 15 -10 0 1 1 1
+  400 0 0 0 0
+  0 40 -910 15 -10 0 1 1 1
+  499 1 0 0 0
+  0 40 -910 -15 -10 0 1 1 1
+  500 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+OutputFilenameFormat 3
+SaveRGBImagesPrefix D:\c\test
+RGBImageFormat 2
+
+ViewMode 5
+ViewAimpoint 165.274994 0.000000 -1170.750000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 0.790124
+LayoutGrid 8
+GridSize 100.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

@@ -1,0 +1,479 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject h:\scenes\dance\obj\mountout.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\mountin.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\mounttem.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\clouds.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 0
+
+LoadObject h:\scenes\dance\obj\Tempfloo.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\tempalta.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\altaligh.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -59 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -41 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\tempreis.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\temproof.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\statue.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\sea.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gasphen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gasphenb.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gongfoot.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 22
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gongarmm.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 16
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gongarm.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 16
+Metamorph 1.000000
+MorphTarget 17
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gongrope.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 18
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gong.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 19
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\gongclub.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 18
+ShadowOptions 7
+
+AddNullObject Gong Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -33.75 1962 -160.6 40 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject h:\scenes\dance\obj\conc02.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -27 1957.7 -172 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 51
+ShadowOptions 7
+
+AmbientColor 255 15 105
+AmbIntensity 0.000000
+
+AddLight
+LightName Sun
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -17892 3792 153 90 11.5 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+LightColor 237 132 101
+LgtIntensity 1.500000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName AltarLight Left  01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName AltarLight Left  02
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 -120 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName AltarLight Left  03
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 120 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ParentObject 8
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName AltarLight Right  01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 9
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName AltarLight Right  02
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 -120 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 9
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName AltarLight Right  03
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 120 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 9
+LightColor 255 255 255
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 5.000000
+ShadowType 1
+
+AddLight
+LightName Sun
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -55.75 3792 -15718 0 11.5 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+LightColor 231 22 58
+LgtIntensity 0.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Gas Phenomena Light 01
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -70.2 1960 -247 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+LightColor 255 157 85
+LgtIntensity 0.500000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName Gas Phenomena Light 02
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -29.8 1960 -247 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 2
+LightColor 255 157 85
+LgtIntensity 0.500000
+LightType 1
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 0.500000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  -56.19133 1962.547 -183.5576 51.4 -0.6000005 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint -27.000002 1957.700195 -172.000015
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.777778
+LayoutGrid 8
+GridSize 100.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

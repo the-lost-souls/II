@@ -1,0 +1,15 @@
+heisann heisann
+
+sendte med alle scenen.... du trenger bare de to siste... foggy05.lws 
+er uten animerte ræsersjip..men den har de derre knalle oksene..og 
+kamerabevegelse... blir sikkert bra saan.. mulig landskapet skulle vært
+mer oppdelt.. gaar sikkert bra med et distant lys... foggy05.lws er det
+faktisk animerte ræsersjip (dummyobjekter) og et av skipene er satt som parent og target for kamera... fjern dette... skulle noen maps mangle
+er det bare å ringe... er noen map for store (sannsynlig) saa er det bare å skalere dem...
+disse dirrene skal ligge på h:\lastscns\... etc.etc  med unntak fra 
+root\maps\  den skal seff. ligge på h:\  ring hvis du ikke skjønner dette for da er du teit.... haahaa... :))
+
+
+heida....
+
+gas

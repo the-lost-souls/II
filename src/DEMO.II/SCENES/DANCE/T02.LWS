@@ -1,0 +1,1193 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 200
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\scenes\dance\obj\mont1_10.lwo
+ShowObject 0 2
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\mont2_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\mont3_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\clods_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 0
+
+LoadObject H:\scenes\dance\obj\floor_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\alter_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\light_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -12.5 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  -59 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Altar Light Null
+ShowObject 2 7
+ObjectMotion (unnamed)
+  9
+  1
+  -41 1965.9 -141 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\reis_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\roof_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\stat_14.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gas_12.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gasb_14.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gfoot_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 21
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gmorph_5.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 15
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\garm_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 15
+Metamorph 1.000000
+MorphTarget 16
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\grope_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 17
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gong_14.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 18
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\gclub_10.lwo
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 17
+ShadowOptions 7
+
+AddNullObject Gong Null
+ShowObject 4 7
+ObjectMotion (unnamed)
+  9
+  1
+  -33.75 1962 -160.6 40 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  -15 0 20 90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -15 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -15 0 0 90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -15 0 -20 0 0 0 1 1 1
+  0 0 0 0 0
+  -15 0 -20 90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -15 0 -40 0 0 0 1 1 1
+  0 0 0 0 0
+  -15 0 -40 90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  15 0 20 0 0 0 1 1 1
+  0 0 0 0 0
+  15 0 20 -90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  15 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  15 0 0 -90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  15 0 -20 0 0 0 1 1 1
+  0 0 0 0 0
+  15 0 -20 -90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+LoadObject H:\scenes\dance\obj\con_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  15 0 -40 0 0 0 1 1 1
+  0 0 0 0 0
+  15 0 -40 -90 0 0 1 1 1
+  1 0 0 0 0
+EndBehavior 1
+ParentObject 30
+ShadowOptions 7
+
+AddNullObject Concubines null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  -50 1958 -190 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  25 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  40 0 0 0 0
+  0 0.7081473 0 0 0 0 1 1 1
+  45 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 36
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  25 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  35 0 0 0 0
+  0.08999999 0 0 0 0 -52.47429 1 1 1
+  45 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 31
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  35 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  40 0 0 0 0
+  1.99 0.59 0 0 0 -10.125 1 1 1
+  45 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 32
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  25 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  35 0 0 0 0
+  -0.09 0 0 0 0 52.47429 1 1 1
+  45 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 31
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  35 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  40 0 0 0 0
+  -1.99 0.5899999 0 0 0 10.125 1 1 1
+  45 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 34
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  130 20 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 67
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 42
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  18 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  26 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  11 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  22 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  26 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 38
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  18 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  26 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  11 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  22 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  26 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 40
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -140 9 1 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 67
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  12 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 -0.08007813 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 48
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  12 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  17 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0.08999999 0 0 0 0 -28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 43
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  7 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  17 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  20 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 44
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  12 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  17 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -0.09 0 0 0 0 28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 43
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  7 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  17 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  20 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 46
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 61 124 90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 67
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 54
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  18 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  26 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 49
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  11 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  22 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  26 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 50
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  18 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  26 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 49
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  11 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  22 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  26 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 52
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -140 30.5 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 68
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  25 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  40 0 0 0 0
+  0 0.7081473 0 0 0 0 1 1 1
+  45 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 60
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  25 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  35 0 0 0 0
+  0.08999999 0 0 0 0 -52.47429 1 1 1
+  45 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 55
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  35 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  40 0 0 0 0
+  1.99 0.59 0 0 0 -10.125 1 1 1
+  45 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 56
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  25 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  35 0 0 0 0
+  -0.09 0 0 0 0 52.47429 1 1 1
+  45 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 55
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  35 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  40 0 0 0 0
+  -1.99 0.5899999 0 0 0 10.125 1 1 1
+  45 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 58
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 25 -139 90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 68
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  12 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 -0.08007813 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 66
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  12 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  17 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0.08999999 0 0 0 0 -28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 61
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  7 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  17 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  20 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 62
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  12 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  17 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -0.09 0 0 0 0 28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 61
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  7 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  17 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  20 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 64
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  130 20 0 -180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+ParentObject 68
+ShadowOptions 7
+
+AddNullObject Bird rotate 1
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -54.00011 1919.4 -214.4999 45 0 0 1 1 1
+  0 0 0 0 0
+  -47.00011 1921.4 -214.4999 405 0 0 1 1 1
+  500 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Bird rotate 2
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -54.2 1918.8 -214.9 0 0 0 1 1 1
+  0 0 0 0 0
+  -54.2 1918.8 -214.9 -360 0 0 1 1 1
+  600 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ShadowOptions 7
+
+AmbientColor 255 96 141
+AmbIntensity 0.000000
+
+AddLight
+LightName Sun
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+LightColor 200 200 200
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Sun
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 -90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+LightColor 200 0 0
+LgtIntensity 0.300000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Sun
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 45 -10 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+LightColor 200 200 200
+LgtIntensity 0.410000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  5
+  58.6967 1926.547 -21.81176 -143.9 -19.2 0 1 1 1
+  0 0 0 0 0
+  108.0314 1941.047 -119.9432 -114.9 -15.3 0 1 1 1
+  60 0 0 0 0
+  127.3084 1949.047 -199.2592 -85.9 -8.900001 0 1 1 1
+  120 0 0 0 0
+  107.1961 1955.047 -278.2757 -62.8 -4.600003 0 1 1 1
+  180 0 0 0 0
+  37.19611 1963.047 -349.2757 -35.99999 -5.099998 0 1 1 1
+  240 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint -51.500000 1957.700195 -229.500000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 2.666669
+LayoutGrid 8
+GridSize 100.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

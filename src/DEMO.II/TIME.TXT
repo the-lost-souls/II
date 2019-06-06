@@ -1,0 +1,82 @@
+Order 0: 107
+Order 1: 1029
+Order 2: 1775
+Order 3: 2611
+Order 4: 2882
+Order 5: 3152
+Order 6: 3423
+Order 7: 3693
+Order 8: 3964
+Order 9: 4234           starter loepet...
+Order 10: 4505
+Order 11: 4775          flash (forbikjoring)
+Order 12: 5046          bytt kameravinkel
+Order 13: 5316
+Order 14: 5586
+Order 15: 5857
+Order 16: 6127
+Order 17: 6398		flash (forbikj›ring)
+Order 18: 6668		bytt kameravinkel
+Order 19: 6939          flash ned
+Order 20: 7209		switch kameravinkel (ut)
+Order 21: 7480		switch kameravinkel
+Order 22: 7750          switch (22/48)
+Order 23: 8021		switch igjen
+Order 24: 8291		switch nok en gang
+Order 25: 8562
+Order 26: 8832
+Order 27: 9103
+Order 28: 9373
+Order 29: 9644
+Order 30: 10185
+Order 31: 10726
+Order 32: 11267
+Order 33: 11807
+Order 34: 12348
+Order 35: 12889
+Order 36: 13430
+Order 37: 13971
+Order 38: 14512
+Order 39: 15053
+Order 40: 15594
+Order 41: 16135
+Order 42: 16676
+Order 43: 17217
+
+Order 44: 17297		2d-effekt
+Order 45: 17616
+Order 46: 17935
+Order 47: 18254
+Order 48: 18573
+Order 49: 18892
+Order 50: 19211
+Order 51: 19530
+Order 52: 19849
+Order 53: 20168
+Order 54: 20487
+Order 55: 20806
+Order 56: 21125
+Order 57: 21444
+Order 58: 21763
+Order 59: 22082
+Order 60: 22401
+Order 61: 22720
+Order 62: 23039
+Order 63: 23358
+Order 64: 23677
+Order 65: 23996
+Order 66: 24315
+Order 67: 24634
+Order 68: 24953
+Order 69: 25272
+Order 70: 25591
+Order 71: 25910
+Order 72: 26229
+Order 73: 26548
+Order 74: 26867
+Order 75: 27186
+Order 76: 27505
+Order 77: 27824
+Order 78: 28143
+Order 79: 28462
+Order 80: 28781

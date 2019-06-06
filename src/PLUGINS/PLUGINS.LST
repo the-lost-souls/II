@@ -1,0 +1,19 @@
+__4fnpunGLW_PluginData near * near GLW_Load( float, float, float, char const near *, int, int )..w:\plugins\loadglow.cpp
+void near GLW_Unload( __4fnpunGLW_PluginData near * )...w:\plugins\loadglow.cpp
+_GLW........................................................w:\plugins\glow.asm
+_GLW_LightPlugin............................................w:\plugins\glow.asm
+_RotateObj..................................................w:\plugins\move.asm
+_SetVectorL1................................................w:\plugins\move.asm
+ 
+w:\plugins\glow.asm     Offset=00000200H
+    _GLW
+    _GLW_LightPlugin
+ 
+w:\plugins\loadglow.cpp Offset=00002200H
+    __4fnpunGLW_PluginData near * near GLW_Load( float, float, float, char const near *, int, int )
+    void near GLW_Unload( __4fnpunGLW_PluginData near * )
+ 
+w:\plugins\move.asm     Offset=00003400H
+    _RotateObj
+    _SetVectorL1
+ 

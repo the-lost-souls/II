@@ -1,0 +1,28 @@
+Objects
+
+00 Reserved
+01 ZERO_Object
+02 Key_Pressed_
+03 V01, tmapping perspective
+04 CopyCanvas
+05 V03, flatshading
+06 SRT_Reset, reset part-tables
+07 SRT_SortP, sort part-tables
+08 SRT_RunP, run all parts
+09 LIT_InitP, go through light-list and run plugins
+10 V04, tmapping, flat shading
+
+
+
+Parts
+
+01 T02, texture mapping
+02 T04, flat shading
+03 T05, texture, flat
+
+04 T06, gouraud shading
+05 T03, tunell
+06 T07, linear texture mapping
+07
+
+

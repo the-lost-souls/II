@@ -1,0 +1,21 @@
+option caseexact
+file v.obj
+file h:\scenes\city\city.obj
+file h:\scenes\birdies\birdies.obj
+file h:\scenes\race04\race04.obj
+file h:\scenes\race03\race03.obj
+file h:\scenes\race02\race02.obj
+file h:\scenes\race01\race01.obj
+file h:\scenes\2d\2d.obj
+file h:\tunnel\tunnel.obj
+file h:\scenes\dance\dance.obj
+file w:\general\general.lib
+file w:\vectors\vectors.lib
+file w:\render\render.lib
+file w:\gfx\gfx.lib
+file w:\plugins\plugins.lib
+file h:\lists.obj
+file h:\callback.obj
+file w:\midas112\lib\dos\wcretail\midas.lib
+file w:\vbe\vbe.lib
+

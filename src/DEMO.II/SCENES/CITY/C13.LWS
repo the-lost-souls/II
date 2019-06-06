@@ -1,0 +1,2787 @@
+LWSC
+1
+
+FirstFrame 1
+LastFrame 1770
+FrameStep 1
+FramesPerSecond 30.000000
+
+LoadObject H:\scenes\city\obj\hang_10.lwo
+ShowObject 0 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  27 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  240 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1100 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Camera Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  22
+  8.2 -184.3 -919.5002 0 90 0 1 1 1
+  0 0 0 0 0
+  13.33506 -188.9701 -884.233 2.627778 20.64685 0 1 1 1
+  90 0 0 0 0
+  25.97589 -200.7 -792.8732 3.7 0 0 1 1 1
+  290 0 0 0 0
+  48.09999 -217.2 -702.2004 -26.9 11.6 0 1 1 1
+  420 0 0 0 0
+  81.10001 -217.2 -663.3002 -56.8 18.59999 0 1 1 1
+  510 0 0 0 0
+  113.9 -217.2 -625.7004 -76.69999 12.8 0 1 1 1
+  600 0 0 0 0
+  123.5999 -208.7 -550.5002 -37.9 7.699997 0 1 1 1
+  690 0 0 0 0
+  145.9 -207.5 -479.3003 1.499999 7.699997 0 1 1 1
+  780 0 0 0 0
+  182.2196 -208.4 -414.9775 -26.4 28.3 0 1 1 1
+  870 0 0 0 0
+  187.0008 -213.7 -356.3342 -58.39999 25.6 0 1 1 1
+  960 0 0 0 0
+  131.2 -223.8 -316.0002 -57.90001 7.699997 0 1 1 1
+  1050 0 0 0 0
+  81.80001 -223.8 -303.7002 -66.9 7.699997 0 1 1 1
+  1140 0 0 0 0
+  38.80001 -238 -304.0002 -66.8 7.699997 0 1 1 1
+  1230 0 0 0 0
+  -26.29999 -244.4 -306.8002 -65.29997 10.7 0 1 1 1
+  1320 0 0 0 0
+  -106.7 -255.3 -289.1002 -59.59999 15.1 0 1 1 1
+  1400 0 0 0 0
+  -151.7 -233.4001 -256.1003 -46.89998 19.09999 0 1 1 1
+  1490 0 0 0 0
+  -161.0135 -204.5093 -246.2136 -43.11797 8.204315 0 1 1 1
+  1550 0 0 0 0
+  -165.6115 -175.0316 -241.9405 -40.45884 1.108929 0 1 1 1
+  1610 0 0 0 0
+  -170.5115 -162.7316 -228.5405 -45.95884 -8.191071 0 1 1 1
+  1670 0 0 0 0
+  -166.0115 -162.7316 -220.7405 -79.55879 -8.200001 0 1 1 1
+  1730 0 0 0 0
+  -172.4 -161.5999 -208.1002 -133.5 -5.5 0 1 1 1
+  1790 0 0 0 0
+  -186.4999 -160.9999 -205.5002 -202.3 -0.6999999 0 1 1 1
+  1850 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+ShadowOptions 7
+
+AddNullObject Bottom
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -1217.5 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Top
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 127.5 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\pass_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  153.9 -238.7 -374.5003 -38.6 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\shp1a_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  281.3999 -238 -556.45 -100.8038 0 0 1 1 1
+  0 0 0 0 0
+  96.82834 -238 -607.4731 -110.2927 0 0 1 1 1
+  420 0 0 0 0
+  -268.6169 -238 -806.241 -35.97545 0 0 1 1 1
+  1090 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\shp1b_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 360 1 1 1
+  300 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 6
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\small_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  23
+  35.00452 -183 -888.7059 -4.345819 5.207804 0 1 1 1
+  0 0 0 0 0
+  19.70732 -189.9001 -834.4167 -1.829527 9.160452 0 1 1 1
+  180 0 0 0 0
+  21.68454 -199 -807.5522 2.247918 12.77639 0 1 1 1
+  240 0 0 0 0
+  29.14493 -200.3 -778.5673 7.455793 13.82249 0 1 1 1
+  300 0 0 0 0
+  28.34435 -204.6998 -758.302 7.649004 9.305182 0 1 1 1
+  330 0 0 0 0
+  36.14535 -212.7 -717.794 25.82132 2.607255 0 1 1 1
+  360 0 0 0 0
+  32.3701 -218.4 -684.5259 -1.735105 6.055159 0 1 1 1
+  390 0 0 0 0
+  35.67569 -226.3 -627.5014 57.34759 10.33739 0 1 1 1
+  420 0 0 0 0
+  53.6384 -226.3 -662.5271 46.77942 0 0 1 1 1
+  480 0 0 0 0
+  75.49666 -230.3 -646.8279 48.43242 -3.113698 0 1 1 1
+  540 0 0 0 0
+  98.67171 -223.3 -621.7668 22.47048 0 0 1 1 1
+  600 0 0 0 0
+  98.63408 -223.3 -550.2483 20.69794 0 0 1 1 1
+  660 0 0 0 0
+  121.9801 -219.1 -483.5011 10.37336 0 0 1 1 1
+  720 0 0 0 0
+  122.028 -218.3 -409.1329 32.91851 -0.5827937 0 1 1 1
+  780 0 0 0 0
+  157.158 -218.3 -401.6173 -6.616346 0 0 1 1 1
+  840 0 0 0 0
+  115.707 -218.3 -319.8952 41.28379 12.10247 0 1 1 1
+  900 0 0 0 0
+  165.507 -218.3 -192.7952 41.28379 12.10247 0 1 1 1
+  1000 0 0 0 0
+  -174.6042 -254.3305 -234.5263 -91.32861 2.643899 0 1 1 1
+  1490 0 0 0 0
+  -198.0197 -215.8 -212.5535 -235.9047 -69.27947 0 1 1 1
+  1560 0 0 0 0
+  -181.1651 -167 -239.9534 -247.69 -82.22903 0 1 1 1
+  1620 0 0 0 0
+  -182.1193 -162.5001 -225.6191 33.88084 -8.357893 0 1 1 1
+  1680 0 0 0 0
+  -162.7617 -161.8001 -211.1971 -235.0009 -0.6928782 0 1 1 1
+  1740 0 0 0 0
+  -151.0984 -161.8001 -204.408 41.28379 12.10247 0 1 1 1
+  1800 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\sqtop_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0.4699999 0 0 0 0 1 1 1
+  35 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 22
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 0.218 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 0.218 0 -30 0 1 1 1
+  20 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  30 0 0 0 0
+  0 -0.075 0.218 0 40 0 1 1 1
+  35 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 9
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 0.108 60 -30 0 1 1 1
+  20 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  30 0 0 0 0
+  0.19 -0.075 0.108 60 40 0 1 1 1
+  35 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 9
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 -0.108 120 -30 0 1 1 1
+  20 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  30 0 0 0 0
+  0.19 -0.075 -0.108 120 40 0 1 1 1
+  35 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 9
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 -0.218 180 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 -0.218 180 -30 0 1 1 1
+  20 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  30 0 0 0 0
+  0 -0.075 -0.218 180 40 0 1 1 1
+  35 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 0 -0.075 0.218
+ParentObject 9
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 -0.113 240 -30 0 1 1 1
+  20 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  30 0 0 0 0
+  -0.188 -0.075 -0.113 240 40 0 1 1 1
+  35 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 9
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 0.107 300 -30 0 1 1 1
+  20 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  30 0 0 0 0
+  -0.188 -0.075 0.107 300 40 0 1 1 1
+  35 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2600
+PivotPoint 0 -0.075 0.218
+ParentObject 9
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  25 0 0 0 0
+  0 -0.44 0.445 0 -35 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  40 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  50 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 11
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  25 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  40 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  50 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 12
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  25 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  40 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  50 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 13
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  25 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  40 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  50 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 14
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  25 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  40 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  50 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 15
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.4400014 0.4450003 0 -55 0 1 1 1
+  25 0 0 0 0
+  0 -0.4400014 0.4450003 0 -45 0 1 1 1
+  30 0 0 0 0
+  0 -0.4400014 0.4450003 0 -15 0 1 1 1
+  40 0 0 0 0
+  0 -0.4400014 0.4450003 0 20 0 1 1 1
+  50 0 0 0 0
+  0 -0.4400006 0.4450001 0 20 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+PivotPoint 0 -0.44 0.445
+ParentObject 10
+ShadowOptions 7
+
+AddNullObject SquidNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  144.5 -223.6 -317.5 0 0 0 1 1 1
+  0 0 0 0 0
+  123.2473 -224.1 -312.487 0 0 0 1 1 1
+  1050 0 0 0 0
+  78.20039 -224.3 -302.8521 0 0 0 1 1 1
+  1140 0 0 0 0
+  33.4922 -239 -303.0798 0 0 0 1 1 1
+  1230 0 0 0 0
+  -30.15442 -245.1 -305.8545 0 0 0 1 1 1
+  1320 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sqtop_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+  0 0.6999997 0 0 0 0 1 1 1
+  52 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 36
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 0.218 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 0.218 0 -30 0 1 1 1
+  30 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  45 0 0 0 0
+  0 -0.075 0.218 0 40 0 1 1 1
+  52 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 23
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 0.108 60 -30 0 1 1 1
+  30 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  45 0 0 0 0
+  0.19 -0.075 0.108 60 40 0 1 1 1
+  52 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 23
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 -0.108 120 -30 0 1 1 1
+  30 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  45 0 0 0 0
+  0.19 -0.075 -0.108 120 40 0 1 1 1
+  52 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 23
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 -0.218 180 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 -0.218 180 -30 0 1 1 1
+  30 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  45 0 0 0 0
+  0 -0.075 -0.218 180 40 0 1 1 1
+  52 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 0 -0.075 0.218
+ParentObject 23
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 -0.113 240 -30 0 1 1 1
+  30 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  45 0 0 0 0
+  -0.188 -0.075 -0.113 240 40 0 1 1 1
+  52 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 23
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 0.107 300 -30 0 1 1 1
+  30 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  45 0 0 0 0
+  -0.188 -0.075 0.107 300 40 0 1 1 1
+  52 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2600
+PivotPoint 0 -0.075 0.218
+ParentObject 23
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 -35 0 1 1 1
+  45 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  60 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  75 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 25
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  45 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  60 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  75 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 26
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  45 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  60 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  75 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 27
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  45 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  60 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  75 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 28
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  45 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  60 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  75 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 29
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.4400014 0.4450003 0 -55 0 1 1 1
+  37 0 0 0 0
+  0 -0.4400014 0.4450003 0 -45 0 1 1 1
+  45 0 0 0 0
+  0 -0.4400014 0.4450003 0 -15 0 1 1 1
+  60 0 0 0 0
+  0 -0.4400014 0.4450003 0 20 0 1 1 1
+  75 0 0 0 0
+  0 -0.4400006 0.4450001 0 20 0 1 1 1
+  90 0 0 0 0
+EndBehavior 2
+PivotPoint 0 -0.44 0.445
+ParentObject 24
+ShadowOptions 7
+
+AddNullObject SquidNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  144.5 -226 -333.8 0 0 0 1 1 1
+  0 0 0 0 0
+  128.0391 -224.4 -312.668 0 0 0 1 1 1
+  1050 0 0 0 0
+  78.44621 -224.8 -300.7098 0 0 0 1 1 1
+  1140 0 0 0 0
+  34.77602 -237.9 -300.5911 0 0 0 1 1 1
+  1230 0 0 0 0
+  -30.00549 -245.1 -303.9011 0 0 0 1 1 1
+  1320 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sqtop_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  22 0 0 0 0
+  0 0.3 0 0 0 0 1 1 1
+  26 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 50
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 0.218 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 0.218 0 -30 0 1 1 1
+  15 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  22 0 0 0 0
+  0 -0.075 0.218 0 40 0 1 1 1
+  26 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 0.108 60 -30 0 1 1 1
+  15 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  22 0 0 0 0
+  0.19 -0.075 0.108 60 40 0 1 1 1
+  26 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 -0.108 120 -30 0 1 1 1
+  15 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  22 0 0 0 0
+  0.19 -0.075 -0.108 120 40 0 1 1 1
+  26 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 -0.218 180 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 -0.218 180 -30 0 1 1 1
+  15 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  22 0 0 0 0
+  0 -0.075 -0.218 180 40 0 1 1 1
+  26 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 0 -0.075 0.218
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 -0.113 240 -30 0 1 1 1
+  15 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  22 0 0 0 0
+  -0.188 -0.075 -0.113 240 40 0 1 1 1
+  26 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 0.107 300 -30 0 1 1 1
+  15 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  22 0 0 0 0
+  -0.188 -0.075 0.107 300 40 0 1 1 1
+  26 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2600
+PivotPoint 0 -0.075 0.218
+ParentObject 37
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  18 0 0 0 0
+  0 -0.44 0.445 0 -35 0 1 1 1
+  22 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 39
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  18 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  22 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 40
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  18 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  22 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 41
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  18 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  22 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 42
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  18 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  22 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  30 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  37 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 43
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.4400014 0.4450003 0 -55 0 1 1 1
+  18 0 0 0 0
+  0 -0.4400014 0.4450003 0 -45 0 1 1 1
+  22 0 0 0 0
+  0 -0.4400014 0.4450003 0 -15 0 1 1 1
+  30 0 0 0 0
+  0 -0.4400014 0.4450003 0 20 0 1 1 1
+  37 0 0 0 0
+  0 -0.4400006 0.4450001 0 20 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+PivotPoint 0 -0.44 0.445
+ParentObject 38
+ShadowOptions 7
+
+AddNullObject SquidNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  172 -234.2 -333.5999 0 0 0 1 1 1
+  0 0 0 0 0
+  127.073 -225.5 -313.0442 0 0 0 1 1 1
+  1050 0 0 0 0
+  76.8808 -224.2 -300.9837 0 0 0 1 1 1
+  1140 0 0 0 0
+  32.19371 -239.6 -300.6829 0 0 0 1 1 1
+  1230 0 0 0 0
+  -33.22213 -247.4001 -303.3741 0 0 0 1 1 1
+  1320 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sqtop_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  52 0 0 0 0
+  0 1.02 0 0 0 0 1 1 1
+  61 0 0 1 0
+  0 0 0 0 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 64
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 0.218 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 0.218 0 -30 0 1 1 1
+  35 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  52 0 0 0 0
+  0 -0.075 0.218 0 40 0 1 1 1
+  61 0 0 0 0
+  0 -0.075 0.218 0 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 51
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 0.108 60 -30 0 1 1 1
+  35 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  52 0 0 0 0
+  0.19 -0.075 0.108 60 40 0 1 1 1
+  61 0 0 0 0
+  0.19 -0.075 0.108 60 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 51
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  0 0 0 0 0
+  0.19 -0.075 -0.108 120 -30 0 1 1 1
+  35 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  52 0 0 0 0
+  0.19 -0.075 -0.108 120 40 0 1 1 1
+  61 0 0 0 0
+  0.19 -0.075 -0.108 120 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 51
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 -0.075 -0.218 180 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.075 -0.218 180 -30 0 1 1 1
+  35 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  52 0 0 0 0
+  0 -0.075 -0.218 180 40 0 1 1 1
+  61 0 0 0 0
+  0 -0.075 -0.218 180 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 0 -0.075 0.218
+ParentObject 51
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 -0.113 240 -30 0 1 1 1
+  35 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  52 0 0 0 0
+  -0.188 -0.075 -0.113 240 40 0 1 1 1
+  61 0 0 0 0
+  -0.188 -0.075 -0.113 240 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.075 0.218
+ParentObject 51
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  0 0 0 0 0
+  -0.188 -0.075 0.107 300 -30 0 1 1 1
+  35 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  52 0 0 0 0
+  -0.188 -0.075 0.107 300 40 0 1 1 1
+  61 0 0 0 0
+  -0.188 -0.075 0.107 300 0 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2600
+PivotPoint 0 -0.075 0.218
+ParentObject 51
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  43 0 0 0 0
+  0 -0.44 0.445 0 -35 0 1 1 1
+  52 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  70 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  87 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 53
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  43 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  52 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  70 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  87 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 54
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  43 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  52 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  70 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  87 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 55
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  43 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  52 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  70 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  87 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 56
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.44 0.445 0 -55 0 1 1 1
+  43 0 0 0 0
+  0 -0.44 0.445 0 -45 0 1 1 1
+  52 0 0 0 0
+  0 -0.44 0.445 0 -15 0 1 1 1
+  70 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  87 0 0 0 0
+  0 -0.44 0.445 0 20 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+LockedChannels 2560
+PivotPoint 0 -0.44 0.445
+ParentObject 57
+ShadowOptions 7
+
+LoadObject h:\scenes\city\obj\sq2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.44 0.445 0 20 0 1 1 1
+  0 0 0 0 0
+  0 -0.4400014 0.4450003 0 -55 0 1 1 1
+  43 0 0 0 0
+  0 -0.4400014 0.4450003 0 -45 0 1 1 1
+  52 0 0 0 0
+  0 -0.4400014 0.4450003 0 -15 0 1 1 1
+  70 0 0 0 0
+  0 -0.4400014 0.4450003 0 20 0 1 1 1
+  87 0 0 0 0
+  0 -0.4400006 0.4450001 0 20 0 1 1 1
+  105 0 0 0 0
+EndBehavior 2
+PivotPoint 0 -0.44 0.445
+ParentObject 52
+ShadowOptions 7
+
+AddNullObject SquidNull
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -180.6 -160.5 -220.1 0 0 0 1 1 1
+  0 0 0 0 0
+  -176.9689 -160.3592 -220.2678 0 0 0 1 1 1
+  1620 0 0 0 0
+  -174.5768 -160.3999 -217.5381 0 0 0 1 1 1
+  1680 0 0 0 0
+  -176.9481 -161.8002 -214.3746 0 0 0 1 1 1
+  1770 0 0 0 0
+  -181.5811 -161.5002 -210.3258 0 0 0 1 1 1
+  1850 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -12.2 0 -3.7 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.9 13.2 9.1 0 0 0 1 1 1
+  60 0 0 0 0
+  -5.6 -7.3 -3 0 0 0 1 1 1
+  120 0 0 0 0
+  11.8 -8.3 0 0 0 0 1 1 1
+  180 0 0 0 0
+  5.800004 -1.1 6.400001 0 0 0 1 1 1
+  240 0 0 0 0
+  -0.9 13.2 9.1 0 0 0 1 1 1
+  301 0 0 0 0
+  -5.6 -7.3 -3 0 0 0 1 1 1
+  361 0 0 0 0
+  11.8 -8.3 0 0 0 0 1 1 1
+  421 0 0 0 0
+  5.800004 -1.1 6.400001 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -2.4 -16.8 6.6 0 0 0 1 1 1
+  0 0 0 0 0
+  -16.4 5.800001 -2.9 0 0 0 1 1 1
+  60 0 0 0 0
+  2.9 -9.700001 -5.3 0 0 0 1 1 1
+  120 0 0 0 0
+  6.7 -2.4 2.5 0 0 0 1 1 1
+  180 0 0 0 0
+  -1.399999 5.199998 4.1 0 0 0 1 1 1
+  240 0 0 0 0
+  -16.4 5.800001 -2.9 0 0 0 1 1 1
+  301 0 0 0 0
+  2.9 -9.700001 -5.3 0 0 0 1 1 1
+  361 0 0 0 0
+  6.7 -2.4 2.5 0 0 0 1 1 1
+  421 0 0 0 0
+  -1.399999 5.199998 4.1 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -11.8 7.2 5.6 0 0 0 1 1 1
+  0 0 0 0 0
+  5 11.5 0 0 0 0 1 1 1
+  60 0 0 0 0
+  8.5 -7.2 6 0 0 0 1 1 1
+  120 0 0 0 0
+  0.7 5.5 8.1 0 0 0 1 1 1
+  180 0 0 0 0
+  -10.2 -8.9 -5 0 0 0 1 1 1
+  240 0 0 0 0
+  5 11.5 0 0 0 0 1 1 1
+  301 0 0 0 0
+  8.5 -7.2 6 0 0 0 1 1 1
+  361 0 0 0 0
+  0.7 5.5 8.1 0 0 0 1 1 1
+  421 0 0 0 0
+  -10.2 -8.9 -5 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  11 -8.6 -4.2 0 0 0 1 1 1
+  0 0 0 0 0
+  11.6 7.700001 5.2 0 0 0 1 1 1
+  60 0 0 0 0
+  -9.1 11.8 -7.5 0 0 0 1 1 1
+  120 0 0 0 0
+  -6.3 -4.1 3.8 0 0 0 1 1 1
+  180 0 0 0 0
+  1.2 -14.3 3.9 0 0 0 1 1 1
+  240 0 0 0 0
+  11.6 7.700001 5.2 0 0 0 1 1 1
+  301 0 0 0 0
+  -9.1 11.8 -7.5 0 0 0 1 1 1
+  361 0 0 0 0
+  -6.3 -4.1 3.8 0 0 0 1 1 1
+  421 0 0 0 0
+  1.2 -14.3 3.9 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -11.3 -10.9 -7.4 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.2000001 -14.1 4.400001 0 0 0 1 1 1
+  60 0 0 0 0
+  11.9 3.4 6.8 0 0 0 1 1 1
+  120 0 0 0 0
+  8.7 6.2 -5.3 0 0 0 1 1 1
+  180 0 0 0 0
+  2.2 -8.000001 6.6 0 0 0 1 1 1
+  240 0 0 0 0
+  -0.2000001 -14.1 4.400001 0 0 0 1 1 1
+  301 0 0 0 0
+  11.9 3.4 6.8 0 0 0 1 1 1
+  361 0 0 0 0
+  8.7 6.2 -5.3 0 0 0 1 1 1
+  421 0 0 0 0
+  2.2 -8.000001 6.6 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  5.899999 6 9.400001 0 0 0 1 1 1
+  0 0 0 0 0
+  8.700001 -7.400001 -5.1 0 0 0 1 1 1
+  60 0 0 0 0
+  -6 10.3 5.1 0 0 0 1 1 1
+  120 0 0 0 0
+  -13.3 7.7 0 0 0 0 1 1 1
+  180 0 0 0 0
+  -4.2 -9.5 -6.8 0 0 0 1 1 1
+  240 0 0 0 0
+  8.700001 -7.400001 -5.1 0 0 0 1 1 1
+  301 0 0 0 0
+  -6 10.3 5.1 0 0 0 1 1 1
+  361 0 0 0 0
+  -13.3 7.7 0 0 0 0 1 1 1
+  421 0 0 0 0
+  -4.2 -9.5 -6.8 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -4.7 4.2 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -7.3 -11.8 8.9 0 0 0 1 1 1
+  60 0 0 0 0
+  8.900001 -0.7000001 -3.8 0 0 0 1 1 1
+  120 0 0 0 0
+  -0.9 15.2 -6.2 0 0 0 1 1 1
+  180 0 0 0 0
+  -13 10.8 2.8 0 0 0 1 1 1
+  240 0 0 0 0
+  -7.3 -11.8 8.9 0 0 0 1 1 1
+  301 0 0 0 0
+  8.900001 -0.7000001 -3.8 0 0 0 1 1 1
+  361 0 0 0 0
+  -0.9 15.2 -6.2 0 0 0 1 1 1
+  421 0 0 0 0
+  -13 10.8 2.8 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -0.7 -6.300001 -9.7 0 0 0 1 1 1
+  0 0 0 0 0
+  14.9 0 3.3 0 0 0 1 1 1
+  60 0 0 0 0
+  -3.6 7.9 0 0 0 0 1 1 1
+  120 0 0 0 0
+  -7.1 -11.6 10.8 0 0 0 1 1 1
+  180 0 0 0 0
+  11.7 7.6 7.1 0 0 0 1 1 1
+  240 0 0 0 0
+  14.9 0 3.3 0 0 0 1 1 1
+  301 0 0 0 0
+  -3.6 7.9 0 0 0 0 1 1 1
+  361 0 0 0 0
+  -7.1 -11.6 10.8 0 0 0 1 1 1
+  421 0 0 0 0
+  11.7 7.6 7.1 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+AddNullObject Smallship Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  -2.3 13.4 0 0 0 0 1 1 1
+  0 0 0 0 0
+  6.7 -0.1999999 0 0 0 0 1 1 1
+  60 0 0 0 0
+  -12 -3.3 -3 0 0 0 1 1 1
+  120 0 0 0 0
+  -4 10.7 5 0 0 0 1 1 1
+  180 0 0 0 0
+  -1.9 13.4 -7 0 0 0 1 1 1
+  241 0 0 0 0
+  7 -0.1999999 5.6 0 0 0 1 1 1
+  301 0 0 0 0
+  -11.9 -3.3 -3 0 0 0 1 1 1
+  361 0 0 0 0
+  -4 10.7 0 0 0 0 1 1 1
+  421 0 0 0 0
+  -14.4 0.2 0 0 0 0 1 1 1
+  481 0 0 0 0
+EndBehavior 2
+ParentObject 128
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\sign1_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PivotPoint 0 0 1.732
+ParentObject 77
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\sign2_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 120 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PivotPoint 0 0 1.732
+ParentObject 77
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\sign3_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -120 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PivotPoint 0 0 1.732
+ParentObject 77
+ShadowOptions 7
+
+AddNullObject Null_Sign
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -179.9 -160.8 -216.4 0 0 0 1 1 1
+  0 0 0 0 0
+  -179.9 -160.8 -216.4 360 0 0 1 1 1
+  900 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject CargoNull
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  7
+  -185.1 -301.7 -30.9 -131.5753 0 0 1 1 1
+  0 0 0 0 0
+  -250.3 -301.7 -89.10001 -147.2656 0.4449102 0 1 1 1
+  1050 0 0 0 0
+  -277.9001 -301.7 -167.7 -183.298 -5.105503 0 1 1 1
+  1140 0 0 0 0
+  -242.7 -284.5 -240 -219.8002 -7.567246 0 1 1 1
+  1230 0 0 0 0
+  -175.6001 -270.6 -262.4999 -262.7062 -4.92232 0 1 1 1
+  1320 0 0 0 0
+  -106.3489 -271.9001 -262.0475 78.84515 -3.024731 0 1 1 1
+  1400 0 0 0 0
+  2.599928 -265.0001 -260.3999 0 0 0 1 1 1
+  1490 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 2
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\carg1_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 78
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\carg2_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 78
+ShadowOptions 7
+
+AddNullObject Slange
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  160.8 -238 -368.6999 0 0 0 1 1 1
+  0 0 0 0 0
+  152.5937 -238 -371.2686 0 0 0 1 1 1
+  30 0 0 0 0
+  157.2 -238 -360.3999 0 0 0 1 1 1
+  60 0 0 0 0
+  161.4026 -238 -365.7567 0 0 0 1 1 1
+  90 0 0 0 0
+  168.1 -238 -359.7999 0 0 0 1 1 1
+  120 0 0 0 0
+  163.1685 -238 -376.6014 0 0 0 1 1 1
+  150 0 0 0 0
+  170.1 -238 -373.7999 0 0 0 1 1 1
+  180 0 0 0 0
+  153.6068 -238 -377.8206 0 0 0 1 1 1
+  210 0 0 0 0
+  161 -238 -368.8998 0 0 0 1 1 1
+  240 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Slange
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  160.8 -238 -368.6999 0 0 0 1 1 1
+  0 0 0 0 0
+  156.1937 -238 -359.9686 0 0 0 1 1 1
+  30 0 0 0 0
+  162.2 -238 -375.6998 0 0 0 1 1 1
+  60 0 0 0 0
+  156.7026 -238 -384.7567 0 0 0 1 1 1
+  90 0 0 0 0
+  152.9 -238 -370.6998 0 0 0 1 1 1
+  120 0 0 0 0
+  163.4686 -238 -361.9014 0 0 0 1 1 1
+  150 0 0 0 0
+  173.1 -238 -363.0999 0 0 0 1 1 1
+  180 0 0 0 0
+  161.8068 -238 -382.6206 0 0 0 1 1 1
+  210 0 0 0 0
+  161 -238 -368.8998 0 0 0 1 1 1
+  240 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Slange
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  160.8 -238 -368.6999 0 0 0 1 1 1
+  0 0 0 0 0
+  156.1937 -238 -380.4686 0 0 0 1 1 1
+  30 0 0 0 0
+  148 -238 -370.5999 0 0 0 1 1 1
+  60 0 0 0 0
+  158.9026 -238 -359.0566 0 0 0 1 1 1
+  90 0 0 0 0
+  159.6 -238 -367.9999 0 0 0 1 1 1
+  120 0 0 0 0
+  168.8686 -238 -362.5015 0 0 0 1 1 1
+  150 0 0 0 0
+  151.2 -238 -369.8998 0 0 0 1 1 1
+  180 0 0 0 0
+  168.9068 -238 -375.5206 0 0 0 1 1 1
+  210 0 0 0 0
+  161 -238 -368.8998 0 0 0 1 1 1
+  240 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Slange
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  160.8 -238 -368.6999 0 0 0 1 1 1
+  0 0 0 0 0
+  163.9937 -238 -360.4686 0 0 0 1 1 1
+  30 0 0 0 0
+  150 -238 -369.7999 0 0 0 1 1 1
+  60 0 0 0 0
+  170.1026 -238 -371.5567 0 0 0 1 1 1
+  90 0 0 0 0
+  162.3 -238 -355.4999 0 0 0 1 1 1
+  120 0 0 0 0
+  147.9686 -238 -376.5014 0 0 0 1 1 1
+  150 0 0 0 0
+  158.8 -238 -382.4998 0 0 0 1 1 1
+  180 0 0 0 0
+  172.2068 -238 -371.8206 0 0 0 1 1 1
+  210 0 0 0 0
+  161 -238 -368.8998 0 0 0 1 1 1
+  240 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Slange
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  160.8 -238 -368.6999 0 0 0 1 1 1
+  0 0 0 0 0
+  171.3938 -238 -365.1686 0 0 0 1 1 1
+  30 0 0 0 0
+  152.3 -238 -369.0999 0 0 0 1 1 1
+  60 0 0 0 0
+  157.9026 -238 -357.2567 0 0 0 1 1 1
+  90 0 0 0 0
+  150.8 -238 -380.2998 0 0 0 1 1 1
+  120 0 0 0 0
+  157.0685 -238 -367.4014 0 0 0 1 1 1
+  150 0 0 0 0
+  158.2 -238 -384.2999 0 0 0 1 1 1
+  180 0 0 0 0
+  159.6068 -238 -358.8206 0 0 0 1 1 1
+  210 0 0 0 0
+  160.9 -238 -368.7998 0 0 0 1 1 1
+  240 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+AddNullObject Slange
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  9
+  160.8 -238 -368.6999 0 0 0 1 1 1
+  0 0 0 0 0
+  166.0938 -238 -376.6687 0 0 0 1 1 1
+  30 0 0 0 0
+  168.3 -238 -363.5999 0 0 0 1 1 1
+  60 0 0 0 0
+  147.8026 -238 -371.4567 0 0 0 1 1 1
+  90 0 0 0 0
+  172.1 -238 -371.0999 0 0 0 1 1 1
+  120 0 0 0 0
+  157.2686 -238 -383.7014 0 0 0 1 1 1
+  150 0 0 0 0
+  165.3 -238 -366.1999 0 0 0 1 1 1
+  180 0 0 0 0
+  149.5068 -238 -369.4206 0 0 0 1 1 1
+  210 0 0 0 0
+  161 -238 -368.8998 0 0 0 1 1 1
+  240 0 0 0 0
+EndBehavior 2
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\spacp_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 89
+Metamorph 1.000000
+MorphTarget 88
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\spacp_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 89
+ObjDissolve 1.000000
+ShadowOptions 7
+
+AddNullObject Space Port Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -155.7495 -162.8 -190.9619 45 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  25 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  40 0 0 0 0
+  0 0.7081473 0 0 0 0 1 1 1
+  45 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 95
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  25 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  35 0 0 0 0
+  0.08999999 0 0 0 0 -52.47429 1 1 1
+  45 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 90
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  35 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  40 0 0 0 0
+  1.99 0.59 0 0 0 -10.125 1 1 1
+  45 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 91
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  25 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  35 0 0 0 0
+  -0.09 0 0 0 0 52.47429 1 1 1
+  45 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 90
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  35 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  40 0 0 0 0
+  -1.99 0.5899999 0 0 0 10.125 1 1 1
+  45 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 93
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  30 0 0 180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 126
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 101
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  18 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  26 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 96
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  11 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  22 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  26 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 97
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  18 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  26 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 96
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  11 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  22 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  26 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 99
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -30 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 126
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  12 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 -0.08007813 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 107
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  12 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  17 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0.08999999 0 0 0 0 -28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 102
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  7 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  17 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  20 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 103
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  12 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  17 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -0.09 0 0 0 0 28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 102
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  7 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  17 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  20 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 105
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 -5 30 90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 126
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  18 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 113
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  18 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  26 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 108
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  11 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  22 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  26 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 109
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  18 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  26 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 108
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  6
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  11 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  22 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  26 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 111
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  25 -5 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 127
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  25 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  40 0 0 0 0
+  0 0.7081473 0 0 0 0 1 1 1
+  45 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 119
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  25 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  35 0 0 0 0
+  0.08999999 0 0 0 0 -52.47429 1 1 1
+  45 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 114
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  35 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  40 0 0 0 0
+  1.99 0.59 0 0 0 -10.125 1 1 1
+  45 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 115
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  25 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  35 0 0 0 0
+  -0.09 0 0 0 0 52.47429 1 1 1
+  45 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 114
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  35 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  40 0 0 0 0
+  -1.99 0.5899999 0 0 0 10.125 1 1 1
+  45 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  60 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 117
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -25 90 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 127
+ShadowOptions 7
+
+LoadObject H:\scenes\birdies\obj\body_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.5 0 0 0 0 1 1 1
+  12 0 0 0 0
+  0 0.75 0 0 0 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0 -0.08007813 0 0 0 0 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ParentObject 125
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  0.08999999 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0.08999999 0 0 0 0 40 1 1 1
+  12 0 0 0 0
+  0.08999999 0 0 0 0 -65 1 1 1
+  17 0 0 0 0
+  0.08999999 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  0.08999999 0 0 0 0 -28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3099
+PivotPoint 0.08999999 0 0
+ParentObject 120
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winl2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  1.99 0.59 0 0 0 0 1 1 1
+  0 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  7 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  15 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  17 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  20 0 0 0 0
+  1.99 0.59 0 0 0 0 1 1 1
+  30 0 0 0 0
+  1.99 0.59 0 0 0 90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2563
+PivotPoint 1.99 0.59 0
+ParentObject 121
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  5
+  -0.09 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 0 0 0 0 -40 1 1 1
+  12 0 0 0 0
+  -0.09 0 0 0 0 65 1 1 1
+  17 0 0 0 0
+  -0.09 0 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -0.09 0 0 0 0 28.2753 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 3075
+PivotPoint -0.09 0 0
+ParentObject 120
+ShadowOptions 7
+
+LoadObject h:\scenes\birdies\obj\winr2_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  7 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  15 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  17 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  20 0 0 0 0
+  -1.99 0.5899999 0 0 0 0 1 1 1
+  30 0 0 0 0
+  -1.99 0.5899999 0 0 0 -90 1 1 1
+  45 0 0 0 0
+EndBehavior 2
+LockedChannels 2584
+PivotPoint -1.99 0.5899999 0
+ParentObject 123
+ShadowOptions 7
+
+AddNullObject Bird Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -30 5 0 -180 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+ParentObject 127
+ShadowOptions 7
+
+AddNullObject Bird rotate 1
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -180.0001 -209.1 -214.4999 0 0 0 1 1 1
+  0 0 0 0 0
+  -180.0001 -209.1 -214.4999 360 0 0 1 1 1
+  200 0 0 0 0
+EndBehavior 2
+LockedChannels 6
+ShadowOptions 7
+
+AddNullObject Bird rotate 2
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  2
+  -180.2 -198.2 -216.4 0 0 0 1 1 1
+  0 0 0 0 0
+  -180.2 -199.3 -216.4 -360 0 0 1 1 1
+  250 0 0 0 0
+EndBehavior 2
+LockedChannels 5
+ShadowOptions 7
+
+AddNullObject Smallships null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 10 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\shp1b_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 0 0 120 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 480 1 1 1
+  300 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 6
+ShadowOptions 7
+
+LoadObject H:\scenes\city\obj\shp1b_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  0 0 0 0 0 240 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 600 1 1 1
+  300 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 6
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.245000
+
+AddLight
+LightName Sola1
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 5000 0 -42.19999 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+AddLight
+LightName Sola2
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 5000 0 0 75 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 0
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+ParentObject 2
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 0
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 255 0 0
+ZenithColor 70 120 120
+SkyColor 70 120 120
+GroundColor 70 120 120
+NadirColor 70 120 120
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+SaveAnimationName D:\foggy2.avi
+AnimationType 5
+
+ViewMode 5
+ViewAimpoint 316.368561 -11.757937 -538.723145
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.777773
+LayoutGrid 8
+GridSize 20.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

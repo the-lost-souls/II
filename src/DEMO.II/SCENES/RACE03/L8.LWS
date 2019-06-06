@@ -1,0 +1,281 @@
+LWSC
+1
+
+FirstFrame 90
+LastFrame 140
+FrameStep 1
+FramesPerSecond 8.000000
+
+LoadObject H:\scenes\race03\obj\lane_10.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+Metamorph 1.000000
+MorphTarget 2
+MorphSurfaces 0
+ShadowOptions 7
+
+LoadObject H:\scenes\race03\obj\morph_5.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ObjDissolve 1.000000
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 4
+ParentObject 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 24
+PathAlignment 1
+LookAheadFrames 4
+ParentObject 6
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  15
+  180 90 130650 -180 0 0 1 1 1
+  0 0 0 0 0
+  140 90 126110 -179.6372 0 0 1 1 1
+  10 0 0 0 0
+  -190 90 121010 -181.1475 0 0 1 1 1
+  20 0 0 0 0
+  -14.98058 90 115869 -181.891 0 0 1 1 1
+  30 0 0 0 0
+  -170 90 110750 -182.0033 0 0 1 1 1
+  40 0 0 0 0
+  240 90 105760 -180.3414 0 0 1 1 1
+  50 0 0 0 0
+  100 90 100760 -179.5182 0 0 1 1 1
+  60 0 0 0 0
+  180 90 96180 -179.7992 0 0 1 1 1
+  70 0 0 0 0
+  80 90 91200 -179.6439 0 0 1 1 1
+  80 0 0 0 0
+  170 90 85490 -179.8418 0 0 1 1 1
+  90 0 0 0 0
+  -90 90 80660 -176.4594 0 0 1 1 1
+  100 0 0 0 0
+  -190 90 74340 -179.6171 0 0 1 1 1
+  110 0 0 0 0
+  -40 90 67700 0 -0.2963871 0 1 1 1
+  120 0 0 0 0
+  180 90 60000 0.2002383 0 0 1 1 1
+  130 0 0 0 0
+  180 90 53000 -180 0 0 1 1 1
+  140 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  15
+  -170 90 130000 -180 0 0 1 1 1
+  0 0 0 0 0
+  -140 90 125000 -180.3507 0 0 1 1 1
+  10 0 0 0 0
+  10 90 119990 -180.7273 0 0 1 1 1
+  20 0 0 0 0
+  119.9974 90 115000.8 -179.9794 0 0 1 1 1
+  30 0 0 0 0
+  0 90 110000 0 -0.2963871 0 1 1 1
+  40 0 0 0 0
+  -120 90 104400 -180 0 0 1 1 1
+  50 0 0 0 0
+  -150 90 99470 -180.253 0 0 1 1 1
+  60 0 0 0 0
+  0 90 95000 0 -0.2963871 0 1 1 1
+  70 0 0 0 0
+  -120 90 89260 -180 0 0 1 1 1
+  80 0 0 0 0
+  -120 90 84430 -180.2543 0 0 1 1 1
+  90 0 0 0 0
+  140 90 79980 -180.2527 0 0 1 1 1
+  100 0 0 0 0
+  160 90 75000 -179.711 0 0 1 1 1
+  110 0 0 0 0
+  0 90 70000 0 -0.2963871 0 1 1 1
+  120 0 0 0 0
+  0 90 64480 -180 0 0 1 1 1
+  130 0 0 0 0
+  0 90 58550 0 -0.2963871 0 1 1 1
+  140 0 0 0 0
+EndBehavior 1
+PathAlignment 1
+LookAheadFrames 1
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship02\g1_14.lwo
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+AddNullObject Ship1Glow
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 40 -85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+AddNullObject Ship2Glow
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 40 -85 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  2.5 500 72350 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 5000.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  82.5 500 63090 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 5000.000000
+ShadowType 1
+
+AddLight
+LightName Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -47.5 500 81330 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity 1.000000
+LightType 1
+LightFalloff 1
+LightRange 5000.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  1
+  -533.9749 300 71719.34 -343.4 0.5999994 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+TargetObject 3
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+CustomSize 400 300
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 5
+ViewAimpoint 5020.812500 -9103.742188 71476.796875
+ViewDirection -0.455531 -0.619592 0.000000
+ViewZoomFactor 1.777772
+LayoutGrid 8
+GridSize 2000.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0

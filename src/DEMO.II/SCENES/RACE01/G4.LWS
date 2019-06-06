@@ -1,0 +1,313 @@
+LWSC
+1
+
+FirstFrame 0
+LastFrame 1800
+FrameStep 1
+FramesPerSecond 100.000000
+
+LoadObject H:\scenes\RACE01\obj\Garag_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\scenes\RACE01\obj\Garp_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 0 0 1 1 1
+  300 1 0 0 0
+  0 0 0 0 0 0 1 1 1
+  1260 1 0 0 0
+  0 150 0 0 0 0 1 1 1
+  1695 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\s1_10.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+LoadObject H:\ships\ship03\g1_14.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 5
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 7 7
+ObjectMotion (unnamed)
+  9
+  4
+  0 10 0 180 0 0 1 1 1
+  0 0 0 0 0
+  0 10 0 180 0 0 1 1 1
+  300 1 0 0 0
+  0 10 0 180 0 0 1 1 1
+  1260 1 0 0 0
+  0 0 -400 180 0 0 1 1 1
+  1800 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName Light 1
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -270 142.75 108.5 90 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 155 150
+LgtIntensity (envelope)
+  1
+  14
+  0
+  0 0 0 0 0
+  0
+  250 1 0 0 0
+  0.9
+  300 0 0 0 0
+  0.6
+  500 0 0 0 0
+  0.8
+  624 0 0 0 0
+  0.95
+  830 0 0 0 0
+  0.4
+  852 0 0 0 0
+  0.97
+  900 0 0 0 0
+  0.7
+  1100 0 0 0 0
+  0.9
+  1300 0 0 0 0
+  0.5
+  1394 0 0 0 0
+  0.96
+  1500 0 0 0 0
+  0.7
+  1700 0 0 0 0
+  0
+  1800 0 0 0 0
+EndBehavior 1
+LightType 1
+LightFalloff 1
+LightRange 500.000000
+ShadowType 1
+
+AddLight
+LightName Light 2
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  270 138.5 -200.1981 56.00001 40.10001 0 0 0 0
+  0 0 0 0 0
+EndBehavior 1
+LightColor 126 255 126
+LgtIntensity (envelope)
+  1
+  10
+  0
+  0 0 0 0 0
+  0
+  800 1 0 0 0
+  0.95
+  852 0 0 0 0
+  0.4
+  1000 0 0 0 0
+  0.97
+  1200 0 0 0 0
+  0.4
+  1360 0 0 0 0
+  0.97
+  1394 0 0 0 0
+  0.7
+  1500 0 0 0 0
+  0.9
+  1700 0 0 0 0
+  0
+  1800 0 0 0 0
+EndBehavior 1
+LightType 1
+LightFalloff 1
+LightRange 600.000000
+LensFlare 1
+FlareIntensity 0.500000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 80 20 10
+FlareRingSize 0.220000
+FlareRandStreakInt 0.030000
+FlareRandStreakDens 50.000000
+FlareRandStreakSharp 6.000000
+ShadowType 1
+
+AddLight
+LightName Light 1
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  270 143.5 109.75 90 35 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 109 109
+LgtIntensity (envelope)
+  1
+  14
+  0
+  0 0 0 0 0
+  0
+  250 1 0 0 0
+  0.9
+  300 0 0 0 0
+  0.6
+  500 0 0 0 0
+  0.8
+  624 0 0 0 0
+  0.95
+  830 0 0 0 0
+  0.4
+  852 0 0 0 0
+  0.97
+  900 0 0 0 0
+  0.7
+  1100 0 0 0 0
+  0.9
+  1300 0 0 0 0
+  0.5
+  1394 0 0 0 0
+  0.96
+  1500 0 0 0 0
+  0.7
+  1700 0 0 0 0
+  0
+  1800 0 0 0 0
+EndBehavior 1
+LightType 1
+LightFalloff 1
+LightRange 500.000000
+ShadowType 1
+
+AddLight
+LightName Light 2
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  -270 137 -201.1981 56.00001 40.10001 0 0 0 0
+  0 0 0 0 0
+EndBehavior 1
+LightColor 218 255 155
+LgtIntensity (envelope)
+  1
+  10
+  0
+  0 0 0 0 0
+  0
+  800 1 0 0 0
+  0.95
+  852 0 0 0 0
+  0.4
+  1000 0 0 0 0
+  0.97
+  1200 0 0 0 0
+  0.4
+  1360 0 0 0 0
+  0.97
+  1394 0 0 0 0
+  0.7
+  1500 0 0 0 0
+  0.9
+  1700 0 0 0 0
+  0
+  1800 0 0 0 0
+EndBehavior 1
+LightType 1
+LightFalloff 1
+LightRange 600.000000
+ShadowType 1
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  7
+  -6.120911 202.405 128.8921 -68.89999 18.20001 0 1 1 1
+  0 0 0 0 0
+  56.62909 202.405 97.89211 -68.89999 18.20001 0 1 1 1
+  300 0 0 0 0
+  103.8114 186.5503 -88.5536 -28.8151 27.6782 0 1 1 1
+  500 0 0 0 0
+  40.72414 160.8113 -288.8927 9.190599 24.6497 0 1 1 1
+  700 0 0 0 0
+  -87.21985 68.36935 -251.827 50.17738 7.482533 0 1 1 1
+  900 0 0 0 0
+  -181.248 50.5315 127.1175 143.5374 6.140769 0 1 1 1
+  1250 0 0 0 0
+  133.9478 109.655 144.4512 195.3999 6.199996 0 1 1 1
+  1900 0 0 0 0
+EndBehavior 1
+ZoomFactor 3.200000
+RenderMode 2
+RayTraceEffects 0
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 2200000
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 16
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+DataOverlayLabel  
+
+ViewMode 1
+ViewAimpoint 21.230000 0.000000 -316.205017
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 1.185190
+LayoutGrid 8
+GridSize 50.000000
+ShowMotionPath 1
+ShowSafeAreas 0
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
