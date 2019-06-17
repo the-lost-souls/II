@@ -1,6 +1,6 @@
 # II
 
-[![screenshot](https://the-lost-souls.github.io/images/thumbnails/II.jpg)](https://www.youtube.com/watch?v=SQGvSi6TyXA)
+[![screenshot](https://the-lost-souls.github.io/images/thumbnails/II.jpg)](https://youtu.be/stSv0y_zg1o)
 
 This is all the source code and material for the demo 'II' made by The Lost Souls. The demo finished 5th at The Gathering 1998 in Hamar, Norway.
 
